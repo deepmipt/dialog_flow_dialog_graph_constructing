@@ -34,12 +34,12 @@ test_requirements = parse_requirements("requirements_test.txt")
 
 
 setup(
-    name="df_graph_constructing",
+    name="df_graph_construction",
     version="0.1.0",
     description=description,
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/deepmipt/dialog_flow_graph_constructing",
+    url="https://github.com/deepmipt/dialog_flow_graph_construction",
     author="Denis Kuznetosv",
     author_email="kuznetsov.den.p@gmail.com",
     classifiers=[  # Optional
@@ -58,7 +58,7 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3 :: Only",
     ],
-    keywords=["chatbots", "Dialog Flow Graph Constructing"],  # Optional
+    keywords=["chatbots", "Dialog Flow Graph Construction"],  # Optional
     packages=find_packages(where="."),  # Required
     include_package_data=True,
     python_requires=">=3.6, <4",
@@ -67,6 +67,6 @@ setup(
     tests_require=test_requirements,
     entry_points="""
     [console_scripts]
-    df_gc=df_graph_constructing:gc_cli
+    df_gc=df_graph_construction:gc_cli
     """,
 )

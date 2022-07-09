@@ -1,4 +1,4 @@
-from df_graph_constructing import __version__
+from df_graph_construction import __version__
 import logging
 import pickle
 
@@ -6,12 +6,12 @@ import pytest
 import typing as tp
 from dataclasses import dataclass
 
-from df_graph_constructing.cli import gc
-from df_graph_constructing.dataset import DialogueDataset, Dialogue
-from df_graph_constructing.embedders import SentenceEmbedder, OneViewEmbedder
-from df_graph_constructing.dialogue_graph.dgac import dgac_one_stage, dgac_two_stage
-from df_graph_constructing.dialogue_graph import FrequencyDialogueGraph
-from df_graph_constructing.clustering.filters import speaker_filter
+from df_graph_construction.cli import gc
+from df_graph_construction.dataset import DialogueDataset, Dialogue
+from df_graph_construction.embedders import SentenceEmbedder, OneViewEmbedder
+from df_graph_construction.dialogue_graph.dgac import dgac_one_stage, dgac_two_stage
+from df_graph_construction.dialogue_graph import FrequencyDialogueGraph
+from df_graph_construction.clustering.filters import speaker_filter
 
 from datasets import load_dataset
 import json

@@ -1,7 +1,7 @@
 SHELL = /bin/bash
 
 VENV_PATH = venv
-VERSIONING_FILES =  setup.py makefile docs/source/conf.py df_graph_constructing/__init__.py
+VERSIONING_FILES =  setup.py makefile docs/source/conf.py df_graph_construction/__init__.py
 CURRENT_VERSION = 0.1.0 
 
 help:
@@ -32,25 +32,25 @@ format: venv
 .PHONY: format
 
 lint: venv
-	$(VENV_PATH)/bin/flake8 --max-line-length 120 df_graph_constructing/
+	$(VENV_PATH)/bin/flake8 --max-line-length 120 df_graph_construction/
 	@set -e && $(VENV_PATH)/bin/black --exclude="setup\.py" --line-length=120 --check . || ( \
 		echo "================================"; \
 		echo "Bad formatting? Run: make format"; \
 		echo "================================"; \
 		false)
-	$(VENV_PATH)/bin/mypy df_graph_constructing/
+	$(VENV_PATH)/bin/mypy df_graph_construction/
 
 .PHONY: lint
 
 test: venv
-	$(VENV_PATH)/bin/pytest --cov-report html --cov-report term --cov=df_graph_constructing tests/
+	$(VENV_PATH)/bin/pytest --cov-report html --cov-report term --cov=df_graph_construction tests/
 .PHONY: test
 
 test_all: venv test lint
 .PHONY: test_all
 
 doc: venv
-	$(VENV_PATH)/bin/sphinx-apidoc -e -f -o docs/source/apiref df_graph_constructing
+	$(VENV_PATH)/bin/sphinx-apidoc -e -f -o docs/source/apiref df_graph_construction
 	$(VENV_PATH)/bin/sphinx-build -M clean docs/source docs/build
 	$(VENV_PATH)/bin/sphinx-build -M html docs/source docs/build
 .PHONY: doc

@@ -1,9 +1,9 @@
-.. Dialog Flow Graph Constructing documentation master file, created by
+.. Dialog Flow Graph Construction documentation master file, created by
    sphinx-quickstart on 01 07 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Dialog Flow Graph Constructing documentation!
+Welcome to Dialog Flow Graph Construction documentation!
 =======================================================
 
 .. toctree::

@@ -34,7 +34,7 @@ jobs:
       - name: build coverage file
         run: |
           if [ "$RUNNER_OS" == "Windows" ]; then
-            pytest --cache-clear --cov=df_graph_constructing tests/ > pytest-coverage.txt
+            pytest --cache-clear --cov=df_graph_construction tests/ > pytest-coverage.txt
           else
             make test
           fi

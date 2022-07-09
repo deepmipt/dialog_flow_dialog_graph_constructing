@@ -1,0 +1,25 @@
+{
+    "dialogue_id": "1_00002",
+    "turns": {
+        "speaker": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "utterance": [
+            "Can you check restaurants in Pacifica, I'm looking to make a reservation.",
+            "Is there a particular restaurant you want? What time did you want the reservation?",
+            "See if you can get one at Puerto 27 for 1:15 pm.",
+            "To verify: You would like a reseravation at Puerto 27 in Pacifica for 1:15 pm on March 1st for 2.",
+            "Yes that's right.",
+            "Your table is reserved.",
+            "Thanks so much. That's all I need for now.",
+            "Have a great day."
+        ]
+    }
+}

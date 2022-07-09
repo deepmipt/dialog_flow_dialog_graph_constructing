@@ -1,0 +1,29 @@
+{
+    "dialogue_id": "1_00007",
+    "turns": {
+        "speaker": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "utterance": [
+            "I would like to make a reservation at a restaurant for half past 1 in the afternoon.",
+            "In which restaurant would you like a table?",
+            "I would like a table at Left Bank.",
+            "In which location would you like?",
+            "I would like a restaurant in Larkspur.",
+            "Booking a table at Left Bank Larkspur Brasserie in Larkspur for 2 people on March 1st at 1:30 pm.",
+            "Yes, that reservation is good.",
+            "Your reservation was made.",
+            "Thank you for your assistance.",
+            "Have a good day."
+        ]
+    }
+}

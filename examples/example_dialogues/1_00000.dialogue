@@ -1,0 +1,37 @@
+{
+    "dialogue_id": "1_00000",
+    "turns": {
+        "speaker": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "utterance": [
+            "Hi, could you get me a restaurant booking on the 8th please?",
+            "Any preference on the restaurant, location and time?",
+            "Could you get me a reservation at P.f. Chang's in Corte Madera at afternoon 12?",
+            "Please confirm your reservation at P.f. Chang's in Corte Madera at 12 pm for 2 on March 8th.",
+            "Sure, that is great.",
+            "Sorry, your reservation could not be made. Could I help you with something else?",
+            "Could you try booking a table at Benissimo instead?",
+            "Sure, please confirm your reservation at Benissimo Restaurant & Bar in Corte Madera at 12 pm for 2 on March 8th.",
+            "Sure, may I know if they have vegetarian options and how expensive is their food?",
+            "Your reservation has been made. Unfortunately, they do not serve vegetarian options, although they are moderate priced.",
+            "I see, thanks alot!",
+            "No worries, could I further assist you?",
+            "No, that is all. Thank you!",
+            "Have a great day ahead!"
+        ]
+    }
+}

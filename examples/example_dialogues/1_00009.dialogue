@@ -1,0 +1,29 @@
+{
+    "dialogue_id": "1_00009",
+    "turns": {
+        "speaker": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "utterance": [
+            "I want to make a restaurant reservation.",
+            "What's the name of the restaurant and what time would you like the reservation?",
+            "It's name is La Hacienda and I want the reservation for 2 o\"clock in the afternoon.",
+            "And where is the restaurant located?",
+            "It's in Cloverdale.",
+            "I'll make a reservation for La Hacienda Mexican Restaurant in Cloverdale for March 1st at 2 pm for 2 people, is that good for you?",
+            "Yeah,that's good. What's the user rating of the restaurant?",
+            "I'm sorry, but the reservation couldn't be completed. Is there anything else you need?",
+            "No, thanks a lot.",
+            "You're welcome, have a fine day."
+        ]
+    }
+}

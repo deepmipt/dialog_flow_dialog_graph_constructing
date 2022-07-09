@@ -1,0 +1,29 @@
+{
+    "dialogue_id": "1_00004",
+    "turns": {
+        "speaker": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "utterance": [
+            "Can you book a reservation for a restaurant at this evening 5:30?",
+            "At which restaurant would you like to make a reservation?",
+            "See if you can get a table at Mi Zacatecas.",
+            "In which location is Mi Zacatecas?",
+            "It's in American Canyon.",
+            "Please confirm the following: Book 1 table at Mi Zacatecas Family Restaurant in American Canyon for 2 at 5:30 pm on March 1st.",
+            "Confirm. Can you tell me what type of food they serve there?",
+            "The reservation has successfully been made. They serve Mexican food.",
+            "Great, that will be all.",
+            "Enjoy the rest of your day."
+        ]
+    }
+}

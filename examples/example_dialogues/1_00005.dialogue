@@ -1,0 +1,29 @@
+{
+    "dialogue_id": "1_00005",
+    "turns": {
+        "speaker": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "utterance": [
+            "I need to book a table at a restaurant.",
+            "At which time would you like to reserve it for?",
+            "I want it at 1:15 in the afternoon, please.",
+            "In which location would you like it? What is the restaurant name?",
+            "I need a table at Saap Ver, in San Francisco.",
+            "Please confirm the following information: Book a table at Saap Ver, in San Francisco at 1:15 PM on the day of March 1st. This is for a party of 2, correct?",
+            "Yes, that is everything. Address?",
+            "Sorry, but the reservation could not be placed. Is there anything else to help with?",
+            "No, but thanks.",
+            "Of course. Have a wonderful day."
+        ]
+    }
+}

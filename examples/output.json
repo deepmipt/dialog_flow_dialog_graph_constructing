@@ -1,0 +1,1790 @@
+{
+    "start_node": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(54)": "auto_condition(conds=[4], label=54)",
+            "auto_label(48)": "auto_condition(conds=[4], label=48)",
+            "auto_label(55)": "auto_condition(conds=[23], label=55)",
+            "auto_label(39)": "auto_condition(conds=[9, 12], label=39)",
+            "auto_label(56)": "auto_condition(conds=[23], label=56)",
+            "auto_label(36)": "auto_condition(conds=[4, 12], label=36)",
+            "auto_label(46)": "auto_condition(conds=[23], label=46)"
+        },
+        "misc": {
+            "references": {
+                "response": [],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "I want to make a restaurant reservation.",
+                        "utter_index": 0,
+                        "clusters": {
+                            "4": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "I would like to make a reservation at a restaurant for half past 1 in the afternoon.",
+                        "utter_index": 0,
+                        "clusters": {
+                            "4": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "I need to book a dinner reservation for a date. Help me reserve a table at a restaurant.",
+                        "utter_index": 0,
+                        "clusters": {
+                            "23": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Hi, could you get me a restaurant booking on the 8th please?",
+                        "utter_index": 0,
+                        "clusters": {
+                            "9": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "I'm looking to book a table. Can you try Triptych in SF?",
+                        "utter_index": 0,
+                        "clusters": {
+                            "23": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "I need to make a reservation for a restaurant in Oakland. The reservation should be for next Wednesday at 6:45 pm.",
+                        "utter_index": 0,
+                        "clusters": {
+                            "4": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "Can you book a reservation for a restaurant at this evening 5:30?",
+                        "utter_index": 0,
+                        "clusters": {
+                            "12": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "Can you check restaurants in Pacifica, I'm looking to make a reservation.",
+                        "utter_index": 0,
+                        "clusters": {
+                            "4": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Can you book a table for me at the Ancient Szechuan for the 11th of this month at 11:30 am?",
+                        "utter_index": 0,
+                        "clusters": {
+                            "12": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "I need to book a table at a restaurant.",
+                        "utter_index": 0,
+                        "clusters": {
+                            "23": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "What's the name of the restaurant and what time would you like the reservation?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "54": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "In which restaurant would you like a table?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "48": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "What time and location do you have in mind?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "55": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Any preference on the restaurant, location and time?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "39": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Of course, what time would you prefer?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "56": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Which restaurant would you like me to make a reservation for?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "36": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "At which restaurant would you like to make a reservation?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "36": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "Is there a particular restaurant you want? What time did you want the reservation?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "54": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "In which city are you trying to book the table?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "39": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "At which time would you like to reserve it for?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_54": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(46)": "auto_condition(conds=[10], label=46)",
+            "auto_label(57)": "auto_condition(conds=[7], label=57)",
+            "auto_label(37)": "auto_condition(conds=[7], label=37)",
+            "auto_label(33)": "auto_condition(conds=[5], label=33)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "What's the name of the restaurant and what time would you like the reservation?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "54": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "Your reservation was made.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "54": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Have a wonderful evening.",
+                        "utter_index": 21,
+                        "clusters": {
+                            "54": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "Is there a particular restaurant you want? What time did you want the reservation?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "54": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Their prices are moderate and they have a user rating of 4.0.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "54": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "It's name is La Hacienda and I want the reservation for 2 o\"clock in the afternoon.",
+                        "utter_index": 2,
+                        "clusters": {
+                            "10": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "Thank you for your assistance.",
+                        "utter_index": 8,
+                        "clusters": {
+                            "7": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "See if you can get one at Puerto 27 for 1:15 pm.",
+                        "utter_index": 2,
+                        "clusters": {
+                            "7": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Thanks a bunch!",
+                        "utter_index": 8,
+                        "clusters": {
+                            "5": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "And where is the restaurant located?",
+                        "utter_index": 3,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "Have a good day.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "57": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "To verify: You would like a reseravation at Puerto 27 in Pacifica for 1:15 pm on March 1st for 2.",
+                        "utter_index": 3,
+                        "clusters": {
+                            "37": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Is there anything else I can do for you?",
+                        "utter_index": 9,
+                        "clusters": {
+                            "33": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_46": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(52)": "auto_condition(conds=[4], label=52)",
+            "auto_label(38)": "auto_condition(conds=[15], label=38)",
+            "auto_label(34)": "auto_condition(conds=[9], label=34)",
+            "auto_label(48)": "auto_condition(conds=[1], label=48)",
+            "auto_label(46)": "auto_condition(conds=[14], label=46)",
+            "auto_label(31)": "auto_condition(conds=[26], label=31)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "And where is the restaurant located?",
+                        "utter_index": 3,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "I apologize but they do not have vegetarian dishes.",
+                        "utter_index": 17,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Please confirm your reservation at P.f. Chang's in Corte Madera at 12 pm for 2 on March 8th.",
+                        "utter_index": 3,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Sure, please confirm your reservation at Benissimo Restaurant & Bar in Corte Madera at 12 pm for 2 on March 8th.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "At which time would you like to reserve it for?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "In which location would you like it? What is the restaurant name?",
+                        "utter_index": 3,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "It's in Cloverdale.",
+                        "utter_index": 4,
+                        "clusters": {
+                            "4": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "That's alright. Thanks for the information.",
+                        "utter_index": 18,
+                        "clusters": {
+                            "15": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Sure, that is great.",
+                        "utter_index": 4,
+                        "clusters": {
+                            "9": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Sure, may I know if they have vegetarian options and how expensive is their food?",
+                        "utter_index": 8,
+                        "clusters": {
+                            "1": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "I want it at 1:15 in the afternoon, please.",
+                        "utter_index": 2,
+                        "clusters": {
+                            "14": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "I need a table at Saap Ver, in San Francisco.",
+                        "utter_index": 4,
+                        "clusters": {
+                            "26": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "I'll make a reservation for La Hacienda Mexican Restaurant in Cloverdale for March 1st at 2 pm for 2 people, is that good for you?",
+                        "utter_index": 5,
+                        "clusters": {
+                            "52": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "My pleasure. What else do you require?",
+                        "utter_index": 19,
+                        "clusters": {
+                            "38": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Sorry, your reservation could not be made. Could I help you with something else?",
+                        "utter_index": 5,
+                        "clusters": {
+                            "34": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Your reservation has been made. Unfortunately, they do not serve vegetarian options, although they are moderate priced.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "48": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "In which location would you like it? What is the restaurant name?",
+                        "utter_index": 3,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "Please confirm the following information: Book a table at Saap Ver, in San Francisco at 1:15 PM on the day of March 1st. This is for a party of 2, correct?",
+                        "utter_index": 5,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_52": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(34)": "auto_condition(conds=[24], label=34)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "I'll make a reservation for La Hacienda Mexican Restaurant in Cloverdale for March 1st at 2 pm for 2 people, is that good for you?",
+                        "utter_index": 5,
+                        "clusters": {
+                            "52": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "Yeah,that's good. What's the user rating of the restaurant?",
+                        "utter_index": 6,
+                        "clusters": {
+                            "24": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "I'm sorry, but the reservation couldn't be completed. Is there anything else you need?",
+                        "utter_index": 7,
+                        "clusters": {
+                            "34": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_34": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(42)": "auto_condition(conds=[28], label=42)",
+            "auto_label(31)": "auto_condition(conds=[0], label=31)",
+            "auto_label(46)": "auto_condition(conds=[6], label=46)",
+            "auto_label(45)": "auto_condition(conds=[3], label=45)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "I'm sorry, but the reservation couldn't be completed. Is there anything else you need?",
+                        "utter_index": 7,
+                        "clusters": {
+                            "34": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "I was not able to process your reservation. I apologize for any inconvenience.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "34": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Sorry, your reservation could not be made. Could I help you with something else?",
+                        "utter_index": 5,
+                        "clusters": {
+                            "34": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "Sorry, but the reservation could not be placed. Is there anything else to help with?",
+                        "utter_index": 7,
+                        "clusters": {
+                            "34": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "No, thanks a lot.",
+                        "utter_index": 8,
+                        "clusters": {
+                            "28": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Okay. Try booking a table at Little Hunan again but make it at a quarter past 5 in the evening.",
+                        "utter_index": 8,
+                        "clusters": {
+                            "0": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Could you try booking a table at Benissimo instead?",
+                        "utter_index": 6,
+                        "clusters": {
+                            "6": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "No, but thanks.",
+                        "utter_index": 8,
+                        "clusters": {
+                            "3": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "You're welcome, have a fine day.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "42": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Booking a table at Little Hunan located in San Jose. The reservation is for 2 people on March 1st at 5:15 pm. Is that right?",
+                        "utter_index": 9,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Sure, please confirm your reservation at Benissimo Restaurant & Bar in Corte Madera at 12 pm for 2 on March 8th.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "Of course. Have a wonderful day.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "45": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_42": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {},
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00009.dialogue",
+                        "text": "You're welcome, have a fine day.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "42": 1.0
+                        }
+                    }
+                ],
+                "condition": [],
+                "label": []
+            }
+        }
+    },
+    "cluster_48": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(32)": "auto_condition(conds=[23], label=32)",
+            "auto_label(38)": "auto_condition(conds=[15], label=38)",
+            "auto_label(51)": "auto_condition(conds=[14], label=51)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "In which restaurant would you like a table?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "48": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Your reservation has been made. Unfortunately, they do not serve vegetarian options, although they are moderate priced.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "48": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "The reservation has successfully been made. They serve Mexican food.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "48": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "I would like a table at Left Bank.",
+                        "utter_index": 2,
+                        "clusters": {
+                            "23": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "I see, thanks alot!",
+                        "utter_index": 10,
+                        "clusters": {
+                            "15": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "Great, that will be all.",
+                        "utter_index": 8,
+                        "clusters": {
+                            "14": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "In which location would you like?",
+                        "utter_index": 3,
+                        "clusters": {
+                            "32": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "No worries, could I further assist you?",
+                        "utter_index": 11,
+                        "clusters": {
+                            "38": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "Enjoy the rest of your day.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "51": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_32": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(31)": "auto_condition(conds=[4], label=31)",
+            "auto_label(32)": "auto_condition(conds=[7], label=32)",
+            "auto_label(51)": "auto_condition(conds=[12], label=51)",
+            "auto_label(48)": "auto_condition(conds=[14], label=48)",
+            "auto_label(50)": "auto_condition(conds=[14], label=50)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "In which location would you like?",
+                        "utter_index": 3,
+                        "clusters": {
+                            "32": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Here's what I heard: 2 people for a table at triptych in San Francisco at 6:15 pm on March 1st.",
+                        "utter_index": 3,
+                        "clusters": {
+                            "32": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Sure, I have booking table at Triptych on March 8th.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "32": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "Please confirm the following: Book 1 table at Mi Zacatecas Family Restaurant in American Canyon for 2 at 5:30 pm on March 1st.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "32": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Please confirm that you need a table for 2 at the Butterfly Restaurant in San Francisco at 11:30 am on March 11th.",
+                        "utter_index": 3,
+                        "clusters": {
+                            "32": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "I would like a restaurant in Larkspur.",
+                        "utter_index": 4,
+                        "clusters": {
+                            "4": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "No, wrong. Give me Friday next week instead.",
+                        "utter_index": 4,
+                        "clusters": {
+                            "7": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "No, one more time. One person.",
+                        "utter_index": 6,
+                        "clusters": {
+                            "12": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "Confirm. Can you tell me what type of food they serve there?",
+                        "utter_index": 6,
+                        "clusters": {
+                            "14": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "That's perfect. What cuisine do they offer?",
+                        "utter_index": 4,
+                        "clusters": {
+                            "14": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "Booking a table at Left Bank Larkspur Brasserie in Larkspur for 2 people on March 1st at 1:30 pm.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Sure, I have booking table at Triptych on March 8th.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "32": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "I have March 8th 1 person.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "51": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "The reservation has successfully been made. They serve Mexican food.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "48": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Your table has been booked successfully and they serve Asian cuisine.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "50": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_31": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(54)": "auto_condition(conds=[5], label=54)",
+            "auto_label(34)": "auto_condition(conds=[5, 4], label=34)",
+            "auto_label(31)": "auto_condition(conds=[11], label=31)",
+            "auto_label(38)": "auto_condition(conds=[2], label=38)",
+            "auto_label(46)": "auto_condition(conds=[1], label=46)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "Booking a table at Left Bank Larkspur Brasserie in Larkspur for 2 people on March 1st at 1:30 pm.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "You wish to reserve a table for 2 at Little Hunan in San Jose on March 1st at 8 pm. Is that correct?",
+                        "utter_index": 5,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Booking a table at Little Hunan located in San Jose. The reservation is for 2 people on March 1st at 5:15 pm. Is that right?",
+                        "utter_index": 9,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "I was unable to book your table with those details. If you like, I can make a reservation for you at Little Hunan on March 1st at 5 pm for 2 people.",
+                        "utter_index": 11,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "The user rating for Little Hunan is 3.9.",
+                        "utter_index": 15,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "Please confirm the following information: Book a table at Saap Ver, in San Francisco at 1:15 PM on the day of March 1st. This is for a party of 2, correct?",
+                        "utter_index": 5,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "Yes, that reservation is good.",
+                        "utter_index": 6,
+                        "clusters": {
+                            "5": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "It sure is. Please make the reservation right away.",
+                        "utter_index": 6,
+                        "clusters": {
+                            "5": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "That's correct. Let's hope the reservation goes through this time.",
+                        "utter_index": 10,
+                        "clusters": {
+                            "11": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Really? That'll work just fine. Please try that.",
+                        "utter_index": 12,
+                        "clusters": {
+                            "2": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Are there any vegetarian dishes available at that restaurant?",
+                        "utter_index": 16,
+                        "clusters": {
+                            "1": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "Yes, that is everything. Address?",
+                        "utter_index": 6,
+                        "clusters": {
+                            "4": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "Your reservation was made.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "54": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "I was not able to process your reservation. I apologize for any inconvenience.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "34": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "I was unable to book your table with those details. If you like, I can make a reservation for you at Little Hunan on March 1st at 5 pm for 2 people.",
+                        "utter_index": 11,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "I have made your reservation and successfully reserved your table.",
+                        "utter_index": 13,
+                        "clusters": {
+                            "38": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "I apologize but they do not have vegetarian dishes.",
+                        "utter_index": 17,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "Sorry, but the reservation could not be placed. Is there anything else to help with?",
+                        "utter_index": 7,
+                        "clusters": {
+                            "34": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_57": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {},
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00007.dialogue",
+                        "text": "Have a good day.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "57": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Sorry about that, have a good day.",
+                        "utter_index": 11,
+                        "clusters": {
+                            "57": 1.0
+                        }
+                    }
+                ],
+                "condition": [],
+                "label": []
+            }
+        }
+    },
+    "cluster_55": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(39)": "auto_condition(conds=[20], label=39)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "What time and location do you have in mind?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "55": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Something around 8 in the night should be fine. Oh, and look in the San Jose area.",
+                        "utter_index": 2,
+                        "clusters": {
+                            "20": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Do you have a specific restaurant in mind?",
+                        "utter_index": 3,
+                        "clusters": {
+                            "39": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_39": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(31)": "auto_condition(conds=[0], label=31)",
+            "auto_label(46)": "auto_condition(conds=[10], label=46)",
+            "auto_label(32)": "auto_condition(conds=[23], label=32)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Do you have a specific restaurant in mind?",
+                        "utter_index": 3,
+                        "clusters": {
+                            "39": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Any preference on the restaurant, location and time?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "39": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "In which city are you trying to book the table?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "39": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Let's try booking a table at Little Hunan.",
+                        "utter_index": 4,
+                        "clusters": {
+                            "0": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Could you get me a reservation at P.f. Chang's in Corte Madera at afternoon 12?",
+                        "utter_index": 2,
+                        "clusters": {
+                            "10": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Can you book a table at the Butterfly restaurant in San Francisco?",
+                        "utter_index": 2,
+                        "clusters": {
+                            "23": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "You wish to reserve a table for 2 at Little Hunan in San Jose on March 1st at 8 pm. Is that correct?",
+                        "utter_index": 5,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Please confirm your reservation at P.f. Chang's in Corte Madera at 12 pm for 2 on March 8th.",
+                        "utter_index": 3,
+                        "clusters": {
+                            "46": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Please confirm that you need a table for 2 at the Butterfly Restaurant in San Francisco at 11:30 am on March 11th.",
+                        "utter_index": 3,
+                        "clusters": {
+                            "32": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_38": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(31)": "auto_condition(conds=[24], label=31)",
+            "auto_label(54)": "auto_condition(conds=[18], label=54)",
+            "auto_label(44)": "auto_condition(conds=[17], label=44)",
+            "auto_label(45)": "auto_condition(conds=[2], label=45)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "I have made your reservation and successfully reserved your table.",
+                        "utter_index": 13,
+                        "clusters": {
+                            "38": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "My pleasure. What else do you require?",
+                        "utter_index": 19,
+                        "clusters": {
+                            "38": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "No worries, could I further assist you?",
+                        "utter_index": 11,
+                        "clusters": {
+                            "38": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "Your table is reserved.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "38": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "At last. Thank you so much. Before I let you go, can you tell me the restaurant's user rating?",
+                        "utter_index": 14,
+                        "clusters": {
+                            "24": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Oh nothing. Booking the table was all I needed. Thanks again.",
+                        "utter_index": 20,
+                        "clusters": {
+                            "18": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "No, that is all. Thank you!",
+                        "utter_index": 12,
+                        "clusters": {
+                            "17": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "Thanks so much. That's all I need for now.",
+                        "utter_index": 6,
+                        "clusters": {
+                            "2": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "The user rating for Little Hunan is 3.9.",
+                        "utter_index": 15,
+                        "clusters": {
+                            "31": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00003.dialogue",
+                        "text": "Have a wonderful evening.",
+                        "utter_index": 21,
+                        "clusters": {
+                            "54": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Have a great day ahead!",
+                        "utter_index": 13,
+                        "clusters": {
+                            "44": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "Have a great day.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "45": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_44": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {},
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00000.dialogue",
+                        "text": "Have a great day ahead!",
+                        "utter_index": 13,
+                        "clusters": {
+                            "44": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Have a great day!",
+                        "utter_index": 11,
+                        "clusters": {
+                            "44": 1.0
+                        }
+                    }
+                ],
+                "condition": [],
+                "label": []
+            }
+        }
+    },
+    "cluster_56": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(32)": "auto_condition(conds=[14], label=32)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Of course, what time would you prefer?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "56": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Give me 6:15 in the evening please.",
+                        "utter_index": 2,
+                        "clusters": {
+                            "14": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Here's what I heard: 2 people for a table at triptych in San Francisco at 6:15 pm on March 1st.",
+                        "utter_index": 3,
+                        "clusters": {
+                            "32": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_51": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(37)": "auto_condition(conds=[1], label=37)",
+            "auto_label(33)": "auto_condition(conds=[18], label=33)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "I have March 8th 1 person.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "51": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Your reservation has been made. It is a cheap restaurant. It does not have outdoor seating.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "51": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Enjoy your day.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "51": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "Enjoy the rest of your day.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "51": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Yes, that's a winner thanks. Do they have vegetarian options?",
+                        "utter_index": 8,
+                        "clusters": {
+                            "1": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Thank you.",
+                        "utter_index": 6,
+                        "clusters": {
+                            "18": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Well, good news bad news. First they DO have vegetarian options at Triptych. Bad news, no availability at your preferred time. How about March 8th at 6 pm for 1?",
+                        "utter_index": 9,
+                        "clusters": {
+                            "37": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Can I assist you with anything else?",
+                        "utter_index": 7,
+                        "clusters": {
+                            "33": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_37": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(57)": "auto_condition(conds=[8], label=57)",
+            "auto_label(38)": "auto_condition(conds=[7], label=38)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Well, good news bad news. First they DO have vegetarian options at Triptych. Bad news, no availability at your preferred time. How about March 8th at 6 pm for 1?",
+                        "utter_index": 9,
+                        "clusters": {
+                            "37": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "To verify: You would like a reseravation at Puerto 27 in Pacifica for 1:15 pm on March 1st for 2.",
+                        "utter_index": 3,
+                        "clusters": {
+                            "37": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "No, that will not do.",
+                        "utter_index": 10,
+                        "clusters": {
+                            "8": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "Yes that's right.",
+                        "utter_index": 4,
+                        "clusters": {
+                            "7": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00006.dialogue",
+                        "text": "Sorry about that, have a good day.",
+                        "utter_index": 11,
+                        "clusters": {
+                            "57": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "Your table is reserved.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "38": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_36": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(43)": "auto_condition(conds=[17], label=43)",
+            "auto_label(50)": "auto_condition(conds=[12], label=50)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Which restaurant would you like me to make a reservation for?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "36": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "At which restaurant would you like to make a reservation?",
+                        "utter_index": 1,
+                        "clusters": {
+                            "36": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Can you book me a table at Mcdonald's?",
+                        "utter_index": 2,
+                        "clusters": {
+                            "17": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "See if you can get a table at Mi Zacatecas.",
+                        "utter_index": 2,
+                        "clusters": {
+                            "12": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Please confirm: Reserve 1 table at Mcdonald's in Oakland for 2 people on March 6th at 6:45 pm.",
+                        "utter_index": 3,
+                        "clusters": {
+                            "43": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "In which location is Mi Zacatecas?",
+                        "utter_index": 3,
+                        "clusters": {
+                            "50": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_43": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(51)": "auto_condition(conds=[0], label=51)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Please confirm: Reserve 1 table at Mcdonald's in Oakland for 2 people on March 6th at 6:45 pm.",
+                        "utter_index": 3,
+                        "clusters": {
+                            "43": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "That is correct. How expensive is the restaurant and does it have outdoor seating?",
+                        "utter_index": 4,
+                        "clusters": {
+                            "0": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Your reservation has been made. It is a cheap restaurant. It does not have outdoor seating.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "51": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_33": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(51)": "auto_condition(conds=[28], label=51)",
+            "auto_label(44)": "auto_condition(conds=[2], label=44)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Can I assist you with anything else?",
+                        "utter_index": 7,
+                        "clusters": {
+                            "33": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Is there anything else I can do for you?",
+                        "utter_index": 9,
+                        "clusters": {
+                            "33": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "No thanks.",
+                        "utter_index": 8,
+                        "clusters": {
+                            "28": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "No. Thank you. That's all I need.",
+                        "utter_index": 10,
+                        "clusters": {
+                            "2": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00008.dialogue",
+                        "text": "Enjoy your day.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "51": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Have a great day!",
+                        "utter_index": 11,
+                        "clusters": {
+                            "44": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_50": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {
+            "auto_label(32)": "auto_condition(conds=[26], label=32)",
+            "auto_label(54)": "auto_condition(conds=[24], label=54)"
+        },
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "In which location is Mi Zacatecas?",
+                        "utter_index": 3,
+                        "clusters": {
+                            "50": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Your table has been booked successfully and they serve Asian cuisine.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "50": 1.0
+                        }
+                    }
+                ],
+                "condition": [
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "It's in American Canyon.",
+                        "utter_index": 4,
+                        "clusters": {
+                            "26": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Can you get me the user rating of the restaurant? Is it expensive?",
+                        "utter_index": 6,
+                        "clusters": {
+                            "24": 1.0
+                        }
+                    }
+                ],
+                "label": [
+                    {
+                        "name": "examples/example_dialogues/1_00004.dialogue",
+                        "text": "Please confirm the following: Book 1 table at Mi Zacatecas Family Restaurant in American Canyon for 2 at 5:30 pm on March 1st.",
+                        "utter_index": 5,
+                        "clusters": {
+                            "32": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00001.dialogue",
+                        "text": "Their prices are moderate and they have a user rating of 4.0.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "54": 1.0
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "cluster_45": {
+        "response": "auto_response(use_refs=False)",
+        "transitions": {},
+        "misc": {
+            "references": {
+                "response": [
+                    {
+                        "name": "examples/example_dialogues/1_00002.dialogue",
+                        "text": "Have a great day.",
+                        "utter_index": 7,
+                        "clusters": {
+                            "45": 1.0
+                        }
+                    },
+                    {
+                        "name": "examples/example_dialogues/1_00005.dialogue",
+                        "text": "Of course. Have a wonderful day.",
+                        "utter_index": 9,
+                        "clusters": {
+                            "45": 1.0
+                        }
+                    }
+                ],
+                "condition": [],
+                "label": []
+            }
+        }
+    }
+}

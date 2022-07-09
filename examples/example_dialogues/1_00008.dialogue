@@ -1,0 +1,29 @@
+{
+    "dialogue_id": "1_00008",
+    "turns": {
+        "speaker": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "utterance": [
+            "I need to make a reservation for a restaurant in Oakland. The reservation should be for next Wednesday at 6:45 pm.",
+            "Which restaurant would you like me to make a reservation for?",
+            "Can you book me a table at Mcdonald's?",
+            "Please confirm: Reserve 1 table at Mcdonald's in Oakland for 2 people on March 6th at 6:45 pm.",
+            "That is correct. How expensive is the restaurant and does it have outdoor seating?",
+            "Your reservation has been made. It is a cheap restaurant. It does not have outdoor seating.",
+            "Thank you.",
+            "Can I assist you with anything else?",
+            "No thanks.",
+            "Enjoy your day."
+        ]
+    }
+}

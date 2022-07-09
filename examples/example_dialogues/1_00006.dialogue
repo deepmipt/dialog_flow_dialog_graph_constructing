@@ -1,0 +1,33 @@
+{
+    "dialogue_id": "1_00006",
+    "turns": {
+        "speaker": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "utterance": [
+            "I'm looking to book a table. Can you try Triptych in SF?",
+            "Of course, what time would you prefer?",
+            "Give me 6:15 in the evening please.",
+            "Here's what I heard: 2 people for a table at triptych in San Francisco at 6:15 pm on March 1st.",
+            "No, wrong. Give me Friday next week instead.",
+            "Sure, I have booking table at Triptych on March 8th.",
+            "No, one more time. One person.",
+            "I have March 8th 1 person.",
+            "Yes, that's a winner thanks. Do they have vegetarian options?",
+            "Well, good news bad news. First they DO have vegetarian options at Triptych. Bad news, no availability at your preferred time. How about March 8th at 6 pm for 1?",
+            "No, that will not do.",
+            "Sorry about that, have a good day."
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "dialogue_id": "1_00003",
+    "turns": {
+        "speaker": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ],
+        "utterance": [
+            "I need to book a dinner reservation for a date. Help me reserve a table at a restaurant.",
+            "What time and location do you have in mind?",
+            "Something around 8 in the night should be fine. Oh, and look in the San Jose area.",
+            "Do you have a specific restaurant in mind?",
+            "Let's try booking a table at Little Hunan.",
+            "You wish to reserve a table for 2 at Little Hunan in San Jose on March 1st at 8 pm. Is that correct?",
+            "It sure is. Please make the reservation right away.",
+            "I was not able to process your reservation. I apologize for any inconvenience.",
+            "Okay. Try booking a table at Little Hunan again but make it at a quarter past 5 in the evening.",
+            "Booking a table at Little Hunan located in San Jose. The reservation is for 2 people on March 1st at 5:15 pm. Is that right?",
+            "That's correct. Let's hope the reservation goes through this time.",
+            "I was unable to book your table with those details. If you like, I can make a reservation for you at Little Hunan on March 1st at 5 pm for 2 people.",
+            "Really? That'll work just fine. Please try that.",
+            "I have made your reservation and successfully reserved your table.",
+            "At last. Thank you so much. Before I let you go, can you tell me the restaurant's user rating?",
+            "The user rating for Little Hunan is 3.9.",
+            "Are there any vegetarian dishes available at that restaurant?",
+            "I apologize but they do not have vegetarian dishes.",
+            "That's alright. Thanks for the information.",
+            "My pleasure. What else do you require?",
+            "Oh nothing. Booking the table was all I needed. Thanks again.",
+            "Have a wonderful evening."
+        ]
+    }
+}

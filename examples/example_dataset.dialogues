@@ -1,0 +1,3126 @@
+[
+    {
+        "dialogue_id": "1_00000",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Hi, could you get me a restaurant booking on the 8th please?",
+                "Any preference on the restaurant, location and time?",
+                "Could you get me a reservation at P.f. Chang's in Corte Madera at afternoon 12?",
+                "Please confirm your reservation at P.f. Chang's in Corte Madera at 12 pm for 2 on March 8th.",
+                "Sure, that is great.",
+                "Sorry, your reservation could not be made. Could I help you with something else?",
+                "Could you try booking a table at Benissimo instead?",
+                "Sure, please confirm your reservation at Benissimo Restaurant & Bar in Corte Madera at 12 pm for 2 on March 8th.",
+                "Sure, may I know if they have vegetarian options and how expensive is their food?",
+                "Your reservation has been made. Unfortunately, they do not serve vegetarian options, although they are moderate priced.",
+                "I see, thanks alot!",
+                "No worries, could I further assist you?",
+                "No, that is all. Thank you!",
+                "Have a great day ahead!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00001",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you book a table for me at the Ancient Szechuan for the 11th of this month at 11:30 am?",
+                "In which city are you trying to book the table?",
+                "Can you book a table at the Butterfly restaurant in San Francisco?",
+                "Please confirm that you need a table for 2 at the Butterfly Restaurant in San Francisco at 11:30 am on March 11th.",
+                "That's perfect. What cuisine do they offer?",
+                "Your table has been booked successfully and they serve Asian cuisine.",
+                "Can you get me the user rating of the restaurant? Is it expensive?",
+                "Their prices are moderate and they have a user rating of 4.0.",
+                "Thanks a bunch!",
+                "Is there anything else I can do for you?",
+                "No. Thank you. That's all I need.",
+                "Have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00002",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you check restaurants in Pacifica, I'm looking to make a reservation.",
+                "Is there a particular restaurant you want? What time did you want the reservation?",
+                "See if you can get one at Puerto 27 for 1:15 pm.",
+                "To verify: You would like a reseravation at Puerto 27 in Pacifica for 1:15 pm on March 1st for 2.",
+                "Yes that's right.",
+                "Your table is reserved.",
+                "Thanks so much. That's all I need for now.",
+                "Have a great day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00003",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to book a dinner reservation for a date. Help me reserve a table at a restaurant.",
+                "What time and location do you have in mind?",
+                "Something around 8 in the night should be fine. Oh, and look in the San Jose area.",
+                "Do you have a specific restaurant in mind?",
+                "Let's try booking a table at Little Hunan.",
+                "You wish to reserve a table for 2 at Little Hunan in San Jose on March 1st at 8 pm. Is that correct?",
+                "It sure is. Please make the reservation right away.",
+                "I was not able to process your reservation. I apologize for any inconvenience.",
+                "Okay. Try booking a table at Little Hunan again but make it at a quarter past 5 in the evening.",
+                "Booking a table at Little Hunan located in San Jose. The reservation is for 2 people on March 1st at 5:15 pm. Is that right?",
+                "That's correct. Let's hope the reservation goes through this time.",
+                "I was unable to book your table with those details. If you like, I can make a reservation for you at Little Hunan on March 1st at 5 pm for 2 people.",
+                "Really? That'll work just fine. Please try that.",
+                "I have made your reservation and successfully reserved your table.",
+                "At last. Thank you so much. Before I let you go, can you tell me the restaurant's user rating?",
+                "The user rating for Little Hunan is 3.9.",
+                "Are there any vegetarian dishes available at that restaurant?",
+                "I apologize but they do not have vegetarian dishes.",
+                "That's alright. Thanks for the information.",
+                "My pleasure. What else do you require?",
+                "Oh nothing. Booking the table was all I needed. Thanks again.",
+                "Have a wonderful evening."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00004",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you book a reservation for a restaurant at this evening 5:30?",
+                "At which restaurant would you like to make a reservation?",
+                "See if you can get a table at Mi Zacatecas.",
+                "In which location is Mi Zacatecas?",
+                "It's in American Canyon.",
+                "Please confirm the following: Book 1 table at Mi Zacatecas Family Restaurant in American Canyon for 2 at 5:30 pm on March 1st.",
+                "Confirm. Can you tell me what type of food they serve there?",
+                "The reservation has successfully been made. They serve Mexican food.",
+                "Great, that will be all.",
+                "Enjoy the rest of your day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00005",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to book a table at a restaurant.",
+                "At which time would you like to reserve it for?",
+                "I want it at 1:15 in the afternoon, please.",
+                "In which location would you like it? What is the restaurant name?",
+                "I need a table at Saap Ver, in San Francisco.",
+                "Please confirm the following information: Book a table at Saap Ver, in San Francisco at 1:15 PM on the day of March 1st. This is for a party of 2, correct?",
+                "Yes, that is everything. Address?",
+                "Sorry, but the reservation could not be placed. Is there anything else to help with?",
+                "No, but thanks.",
+                "Of course. Have a wonderful day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00006",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I'm looking to book a table. Can you try Triptych in SF?",
+                "Of course, what time would you prefer?",
+                "Give me 6:15 in the evening please.",
+                "Here's what I heard: 2 people for a table at triptych in San Francisco at 6:15 pm on March 1st.",
+                "No, wrong. Give me Friday next week instead.",
+                "Sure, I have booking table at Triptych on March 8th.",
+                "No, one more time. One person.",
+                "I have March 8th 1 person.",
+                "Yes, that's a winner thanks. Do they have vegetarian options?",
+                "Well, good news bad news. First they DO have vegetarian options at Triptych. Bad news, no availability at your preferred time. How about March 8th at 6 pm for 1?",
+                "No, that will not do.",
+                "Sorry about that, have a good day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00007",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I would like to make a reservation at a restaurant for half past 1 in the afternoon.",
+                "In which restaurant would you like a table?",
+                "I would like a table at Left Bank.",
+                "In which location would you like?",
+                "I would like a restaurant in Larkspur.",
+                "Booking a table at Left Bank Larkspur Brasserie in Larkspur for 2 people on March 1st at 1:30 pm.",
+                "Yes, that reservation is good.",
+                "Your reservation was made.",
+                "Thank you for your assistance.",
+                "Have a good day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00008",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to make a reservation for a restaurant in Oakland. The reservation should be for next Wednesday at 6:45 pm.",
+                "Which restaurant would you like me to make a reservation for?",
+                "Can you book me a table at Mcdonald's?",
+                "Please confirm: Reserve 1 table at Mcdonald's in Oakland for 2 people on March 6th at 6:45 pm.",
+                "That is correct. How expensive is the restaurant and does it have outdoor seating?",
+                "Your reservation has been made. It is a cheap restaurant. It does not have outdoor seating.",
+                "Thank you.",
+                "Can I assist you with anything else?",
+                "No thanks.",
+                "Enjoy your day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00009",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to make a restaurant reservation.",
+                "What's the name of the restaurant and what time would you like the reservation?",
+                "It's name is La Hacienda and I want the reservation for 2 o\"clock in the afternoon.",
+                "And where is the restaurant located?",
+                "It's in Cloverdale.",
+                "I'll make a reservation for La Hacienda Mexican Restaurant in Cloverdale for March 1st at 2 pm for 2 people, is that good for you?",
+                "Yeah,that's good. What's the user rating of the restaurant?",
+                "I'm sorry, but the reservation couldn't be completed. Is there anything else you need?",
+                "No, thanks a lot.",
+                "You're welcome, have a fine day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00010",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I am trying to book a dinner reservation in San Fran for one. Can you try booking a table at Lers Ros?",
+                "What time would you like me to make a reservation for?",
+                "If you could, please make the reservation for 12:15 in the afternoon.",
+                "Confirm the following about your reservation: I am booking a table for Lers Ros Thai in San Francisco. The reservatin is on March 1st at 12:15 pm for 1 person. Is this acceptable?",
+                "That will work just fine.",
+                "I was unable to make a reservation with these details. I can book a table at Lers Ros Thai on March 1st at 12 pm for 1 person. Is that okay?",
+                "No that's all the help I needed. Thanks.",
+                "You are welcome. Have a great rest of your day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00011",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to book a table at a restaurant in Danville please",
+                "Do you have a particular restaurant in mind?",
+                "Yeah actually, can you try Lotus for me",
+                "For what time do you want to go?",
+                "Let's do it before lunch at 11:45",
+                "Confirming that you want a table for 2 at 11:45 am on March 1st at the Lotus Thai Restaurant in Danville?",
+                "Yes that's all correct",
+                "Sorry I couldn't book that one, do you want me to try for 12 pm on March 1st instead? Still for 2 at Lotus Thai Restaurant",
+                "Yes please do that",
+                "That one worked! It's booked!",
+                "Is it cheap over there? Also give me their address",
+                "It's in the moderate price range, so not so bad. And find them at 115 Hartz Avenue",
+                "OK, thanks that's it for now",
+                "Enjoy your meal there!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00012",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "My boss from headquarters is coming to town and I would like to treat him and his wife to dinner. Can you help me find a restaurant in San Francisco with available seating for four people, next Tuesday?",
+                "That shouldn't be a problem. Is there a specific time you had in mind?",
+                "Yes, a general dinner time is fine, so let's try to book a table for 6:30 pm.",
+                "Okay, and what about the venue, Is there a particular restaurant you want me to search for first?",
+                "Yes, I'm told that Aq is very good. Let's try that one first.",
+                "No problem, before I check into reservations, let me just make sure that the details I have are correct. You would like a table for 4 at Aq, located in San Francisco, on March 5th, at 6:30 pm. Is that right?",
+                "No, I'm sorry, I forgot he is not bring his wife so lets book a table for 3 at Ming's instead.",
+                "Okay, I've changed those details to a table for 3 at Ming's Diner. Is that correct?",
+                "Perfect, and can you also tell me the the establishment's rating as well?",
+                "The rating of the restaurant I was able to confirm your reservation for is 4.0.",
+                "Great, I believe that will be all fr now. Thanks!",
+                "My pleasure, enjoy the rest of your day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00013",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Help me to find hotel in Petaluma to book a table at evening 7:30.",
+                "Do you have any particular restaurant to choose?",
+                "yeah, get me at Cattlemens.",
+                "Then please confirm, you need a table for 2 people in Cattlemens in Petaluma at 7:30 pm on March 1st.",
+                "Good, thats all.",
+                "It is booked.",
+                "Shall I get veg food there. What is their phone number?",
+                "No, you won't get veg. Their address is 5012 Petaluma Boulevard North.",
+                "Great service, thank you.",
+                "Do you need any other help?",
+                "No, thats all.",
+                "Have a great day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00014",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you help me book a table at Thai Chili on March 11th? Please find restaurants in Santa Clara.",
+                "What time do you prefer?",
+                "I want 5:45 in the evening.",
+                "Okay, you want to book a table for 2 people at Thai Chili Cuisine in Santa Clara on March 11th at 5:45 pm. Please confirm.",
+                "Yes, that's good.",
+                "Sorry, I fail to make a reservation. Thai Chili Cuisine is a good restaurant, do you want me to book a reservation for 2 again on March 11th at 6 pm?",
+                "Yes, that's fine.",
+                "Your booking is now confirmed!",
+                "Thanks a lot.",
+                "You are welcome!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00015",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Could you look at restaurants for me to reserve a table?",
+                "Sure! Where would you like me to search? Is there a particular restaurant?",
+                "How about Chianti Cucina in Novato.",
+                "Okay, what time would you like to reserve?",
+                "For 4:45 pm please.",
+                "Okay, please confirm the details: one table in Novato at restaurant Chianti Cucina for 4:45 pm on March 1st. Reservation is for 2.",
+                "Yes, perfect. Book it please. Is there any outdoor seating there? What kinds of foods do they have?",
+                "They have Italian. Unfortunately, there is no outdoor seating. It looks like I will be unable to make the reservation for that time at Chianti Cucina. How about reserving a table for 2 people on March 1st at 5 pm",
+                "Yes please.",
+                "Your table has been reserved.",
+                "Thanks so much. That's all.",
+                "You're welcome, have a wonderful day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00016",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to book a table for 4 people on March 10th in Petaluma.",
+                "On what restaurant you want to be and at what time?",
+                "Try please at Izakaya Kitaru.At 17:30 will be very good for me.",
+                "Book a table at Izakaya Kitaru in Petaluma for 4 people at 5:30 pm on March 10th.Is that okay for you?",
+                "Yes is okay.Outdoor seating are available?",
+                "The reservation was made.Outdoor seating is not available.",
+                "Tell me the phone number and the address.",
+                "707-789-9068 is the phone number and the address is 212 Western Avenue.",
+                "Thanks for the help. That's what I wanted for the moment.",
+                "Have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00017",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you book a table at a restaurant for me?",
+                "What is the location and time for the booking?",
+                "I am looking for restaurants in Mountain View for the reservation at seven pm.",
+                "What is the name of your preferred restaurant?",
+                "I would like to go with Sushi 85.",
+                "Please confirm: You want me to book a table for 2 people at Sushi 85 located Mountain View at 7 pm on March 1st.",
+                "Okay, That sounds great! Find me the address please.",
+                "I have successfully booked the table and the address is 1350 Grant Road.",
+                "Can you find me their phone number?",
+                "You can call them on 650-965-8898.",
+                "Okay, Thank you for the help!",
+                "Is there anything else I can help you with?",
+                "No. That will be all. Thank you!",
+                "I am glad I could help. Have a nice day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00018",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to reserve a table at a restaurant in SF for 7 pm.",
+                "What restaurant do you want to reserve a table at?",
+                "Can you reserve a table at Regent?",
+                "Please confirm: Reserve a table at Regent Thai in San Francisco for 2 people on March 1st at 7 pm.",
+                "That is correct.",
+                "Your reservation has been confirmed.",
+                "Thanks, that is all.",
+                "Enjoy your day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00019",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I'd like to make a reservation at a restaurant.",
+                "Is there a specific restaurant you'd like to make the reservation for?",
+                "It's a restaurant called Amalfi, please try that.",
+                "Where is the restaurant located and what time do you want the reservation for?",
+                "I want it for 5:30 in the evening and it should be in Larkspur.",
+                "I'll make you a reservation at Amalfi in Larkspur for 5:30 pm on March 1st for 2 people. Is that correct?",
+                "Yeah, that sounds awesome.",
+                "I've booked the reservation.",
+                "Thanks a lot. That's it for now.",
+                "Have an excellent rest of your day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00020",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you help me to book a table at a restaurant for 2 people at evening 6:30",
+                "Is there any choice of restaurant you want to book?",
+                "Would you kindly book the table at Mcdonalds?",
+                "In which place you want me to search?",
+                "Search restaurants in Morgan Hill and it is for next monday",
+                "Please give the confirmation details:your table booking at Mcdonalds in the city Morgan Hill on march 4th for 2 people at 6:30 pm.",
+                "Okay..this is cool",
+                "Your booking is confirmed.",
+                "Is there outdoor seating in that restaurant and can i know the phone number",
+                "There is no outdoor seating and telephone number is 408-779-8182.",
+                "This is cool..thanks a lot.",
+                "Have a nice day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00021",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I would like to reserve a table for 1 at La Briciola tomorrow morning 11.",
+                "What city should I search?",
+                "Search in SFO, please.",
+                "You would like to reserve a table for 1 at La Briciola in San Francisco on March 1st at 11 am, is this correct?",
+                "No, please make it a table for 3.",
+                "Please confirm, you would like the reservation for 3 people in San Francisco.",
+                "Yes, that sounds great. What type of food do they serve?",
+                "It is an Italian restaurant. Sorry, I was unable to reserve the time you selected. Would you like to reserve a table for 3 at La Briciola on March 1st at 11:30 am?",
+                "That sounds fine.",
+                "Your reservation is successful.",
+                "Thank you, I'm all set.",
+                "Have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00022",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you find me a restaurant table for 3 people in Alameda, please?",
+                "What time would you like a reservation?",
+                "I'd like it for 11:30 in the morning on March 13th. It'll just be one person dining.",
+                "Do you want a particular restaurant?",
+                "How about Cafe Jolie?",
+                "Please confirm: reserve a table for Cafe Jolie in Alameda for 11:30 am on March 13th. The reservation will be for 1 person.",
+                "Yes, that's perfect.",
+                "I've successfully confirmed your reservation.",
+                "Thank you very much!",
+                "Will that be all?",
+                "Yes, that's everything for today.",
+                "Have a nice day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00023",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Looking to book a table at the Academy bar?",
+                "Which location to look in and at what time?",
+                "Find in San Fran at 19:00",
+                "Please confirm: Booking a table for 2 at the Academy Bar and Kitchen in San Francisco at 7 pm on March 1st.",
+                "Yes, thats right",
+                "it is done",
+                "Any vegetarian options there?",
+                "yes, there are good options",
+                "thanks a lot",
+                "any thing else?",
+                "no, thanks again",
+                "have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00024",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to book a table at a nice restaurant.",
+                "Sure thing, what are the specifics? Time, place and which restaurant?",
+                "I kinda want to eat at Namu Gaji at one pm, the branch in SFO",
+                "Just confirming you want me to search for a 1 pm reservation for 2 people on March 1st at the Namu Gaji in San Francisco yes?",
+                "Yup that's right. Can you check how pricey it is and what their user rating is?",
+                "Sure, they are in the moderate price range and have a 4.3 average user rating, however I was unable to book your table for 2 at Namu Gaji. Do you want me to try for March 1st at 12:30 pm instead?",
+                "No, I'm not available then",
+                "Can I try something else for you?",
+                "No, not right now, thanks for your assistance",
+                "My pleasure, let me know if I can do anything else for you"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00025",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to reserve a restaurant table for 1 at 1 in the afternoon.",
+                "What restaurant would you like the table at? Where should I look for it?",
+                "I'd like a table at Yin Keng. Look in Windsor.",
+                "A table for 1 at Yin Keng Restaurant in Windsor at 1 pm on March 1st. Is this correct?",
+                "That's it. Do they have vegetarian meals? Where is the restaurant?",
+                "Your reservation has been made. They have vegetarian meals. The address is 8840 Lakewood Drive.",
+                "Thanks for your help.",
+                "Do you need anything else?",
+                "No, that is all.",
+                "Have a nice day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00026",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Please book one table at Tandoori Mahal at 12:30 in the afternoon. The date is 13th of this month.",
+                "What is the location sir?",
+                "I am looking for one in San Francisco.",
+                "Look through your request. You need a table at Tandoori Mahal Indian Restaurant in San Francisco at 12:30 pm on March 13th. There will be 2 people, right?",
+                "Fine, what about food category.",
+                "You will get Indian food. Your booking confirmed.",
+                "Get me their phone number. What is their rating?",
+                "Contact them on 415-951-0505. they have 3.4 rating.",
+                "Good service, thank you.",
+                "Have a great day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00027",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to have a table booked for me at a restaurant, because I want to have a meal.",
+                "Can you tell me the restaurant you are interested to have a table booked at?",
+                "Can you check if you can make a booking of a table at Castle Rock?",
+                "Can you tell me the time that you want to have the table booked for you?",
+                "I prefer to have the booking be made for 12:00.",
+                "Is there a specific location you are looking for?",
+                "I am interested in restaurants which are located in Livermore.",
+                "Can you please confirm that you want to book a table for 2 people at Castle Rock Restaurant in Livermore, and that you want the table to be booked for you for 12 pm on March 1st?",
+                "That is not right. Could you please see if you can make a booking at Mcdonald's?",
+                "Can you please confirm that you want to have a table booked for you on March 1st at Mcdonald's?",
+                "I don't want that either. See if you can find me restaurants in Pittsburg.",
+                "Can you please confirm that you want to have a table booked for you at 12 pm in the city of Pittsburg?",
+                "Yes that suits me well. Could you inform me about the fact how expensive is the restaurant?",
+                "Your requested booking has been made, and the restaurant is considered as cheap.",
+                "I appreciate it very much. That would be all.",
+                "Have a wonderful day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00028",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I'd like to book a table for 1 this sunday somewhere in half moon bay.",
+                "Which restaurant? And what time should the booking be for?",
+                "Could you find something at Miramar Beach, quarter past 11 in the morning?",
+                "Please confirm: You want to book a tale at the Miramar Beach Restaurant in Half MOon bay at 11:15 am on march 3rd for 1.",
+                "Exactly. What is their address, and what's the user rating?",
+                "Their address is 131 mirada road, and they have a rating of 4.2 Sorry, I couldn't make that reservation at the Miramar Beach restaurant, however, they have an opening for 1 on march 3rd at 11:30 am, would that work?",
+                "Yes.",
+                "Your reservation was successful.",
+                "Thank you so much.",
+                "Do you need anything else?",
+                "Nope! Thank you!",
+                "You're very welcome, have a good day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00029",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I would like to take this girl I like out for a casual meal on the 3rd of this month, when I get paid so something around eleven am would be perfect. Can you help me locate a restaurant in Palo Alto?",
+                "Not a problem, is there a specific restaurant you had in mind?",
+                "Yes, I've heard really good things about a restaurant called Lotus.",
+                "Great, before I get you set up with a reservation can you just confirm that everything I have is correct? I have a table for 2, at Lotus Thai Bistro located in Palo Alto on March 3rd, at 11 am. Does this sound correct?",
+                "Yes everything you have is correct.",
+                "I'm sorry to inform you that I was not able to make that reservation for you, however, would you like me to try to set a new reservation for 2 at Lotus Thai Bistro on March 3rd for 11:30 am?",
+                "No, that won't work but thank you any way.",
+                "My pleasure, again I am sorry and have a nice day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00030",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to make a restaurant reservation somewhere please.",
+                "What is the location you'd like?",
+                "I am in Palo Alto.",
+                "Is there a restaurant in particular you would like?",
+                "Yes, Anatolian please for 3 people, if you would.",
+                "A reservation for what time please?",
+                "Would you try for 12:30?",
+                "Confirming a table for 3 on March 1st at 12:30 pm in Palo Alto at Anatolian Kitchen.",
+                "Oops, please change that to one person.",
+                "Confirming a 12:30 pm reservation for a party of 1.",
+                "Okay, thanks. I'm wondering if they have vegetarian choices on their menu. Also, what kind of menu do they have in general?",
+                "They serve Mediterranean cuisine and they also do offer vegetarian selections. Congratulations, your table has been booked.",
+                "Wonderful. Thank you for helping me.",
+                "Is there anything else you need?",
+                "No, that's all I needed.",
+                "Thank you very much."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00031",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Hi there, could you get me a table at a restaurant on the 14th of March at 1:30 pm please?",
+                "Sure, any particular restaurant are you interested in ?",
+                "Could you get me a reservation at Schroeder's please?",
+                "Sure, and which location would you prefer?",
+                "A table for two at San Francisco will be fine.",
+                "Please confirm you reservation at Schroeder's in San Francisco for 2 at 1:30 pm on the March 14th.",
+                "That sounds great to me!",
+                "Your reservation has been made.",
+                "Thank you so much!",
+                "Do you require any further assistance?",
+                "No, that is all I need. Really appreciate it!",
+                "No worries, have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00032",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need help finding a hotel in London.",
+                "You may want to check out 45 Park Lane, a 5 star rated hotel.",
+                "Sounds interesting. I'll check it out later. That will be all.",
+                "Goodbye and have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00033",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need a hotel in Phoenix, AZ please",
+                "How about the 3 star Ac Hotel By Marriott Phoenix Biltmore?",
+                "That sounds amazing",
+                "Do you want me to book you a room?",
+                "For now, don't do that, I'll tell you when, that's it",
+                "Great then, take it easy and have a good one!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00034",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Would you help me to find a hotel?",
+                "In which city you want the hotel?",
+                "I am searching for hotels in London, UK.",
+                "I have short listed 10 hotels of your choice and 45 Park Lane is one among them with 5 star rating.",
+                "This is great.",
+                "Do you need any other help?",
+                "No, thanks for your great help.",
+                "Have a wonderful day..bye for now.."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00035",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I'm searching for a hotel.",
+                "What metropolis ought I look for hotels in?",
+                "I'm searching for hotels located in Paris, France.",
+                "There's the Ac Hotel By Marriott Paris Porte Maillot that has a 4 star rating.",
+                "That's perfect for me.",
+                "Do you wish to book the hotel?",
+                "I do not wish to book right now; that's all.",
+                "Have a pleasant afternoon."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00036",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to make a hotel reservation. Please help me find a 4 star hotel in London.",
+                "There are 10 hotels that match your criteria. Ace Hotel London is a 4 star hotel.",
+                "That sounds good, thanks.",
+                "Would you like to make a reservation?",
+                "No, thank you, I don't want to make the reservation right now, I need to confirm my plans before I reserve.",
+                "Can I help you with anything else?",
+                "No, I'm all set, you have been very helpful, thank you.",
+                "Have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00037",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I would like to book a hotel room.",
+                "In which city would you like?",
+                "I'm looking for a three star hotel in Seattle, WA.",
+                "There are 10 hotels. Would you like Best Western Plus Pioneer Square Hotel Downtown, It's 3 star.",
+                "Yes, that sounds good.",
+                "Would you like to make a reservation?",
+                "Not at the moment thank you.",
+                "Can I help with anything else?",
+                "No, that is all I needed.",
+                "Have a good day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00038",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you find me a three star hotel for one room?",
+                "Sure! What city would you like to book a hotel?",
+                "In New York.",
+                "Okay, I've found 10 hotels in New York. There's a 3 star hotel called 11 Howard that meets your criteria.",
+                "Alright, thanks. That's all I wanted to know.",
+                "You're welcome. Have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00039",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you find me two smoking rooms in a London hotel, please?",
+                "Sure, there are 10 that may work. How about the 3 star hotel called Abbey Court Hotel (hyde park)?",
+                "Sounds really great, thanks!",
+                "Shall I reserve your rooms?",
+                "Not now, I'm going to look around a little more.",
+                "Okay, have a good one!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00040",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I would like to search for a hotel for my upcoming trip",
+                "And in what location or area do you need the hotel?",
+                "I would like to search for New Delhi hotels",
+                "There are 10 hotels that may suit your needs. One such hotel is a 5 star hotel named Aloft New Delhi Aerocity",
+                "Are there any more hotels that fit my search criteria?",
+                "Sure, there's another 5 star hotel named Andaz Delhi - A Concept By Hyatt.",
+                "Can you tell me the rate for that hotel per night?",
+                "It is $175 for a one night stay.",
+                "And what is their exact location and contact number, please?",
+                "They are located at Asset No.1 Aerocity, New Delhi and they can be reached at +91 11 4903 1234",
+                "Are there additional hotels that fit my preferences? I am looking to book two rooms",
+                "Yes. There is a 3 star hotel, Bloomrooms @ New Delhi Railway Station.",
+                "great.",
+                "Are you looking to book the rooms at this hotel now?",
+                "Not at this moment.",
+                "Do you need any further assistance?",
+                "No, that was everything. Thanks so much for your help",
+                "Have a nice day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00041",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you help me find a hotel in Sydney, Australia?",
+                "There are 10 that may work. How about the 3 star hotel 1831 Boutique Hotel?",
+                "Maybe, how much per night and what's the phone number?",
+                "It costs $225 a night and they can be reached at +61 2 9265 8888.",
+                "That sounds fine.",
+                "Shall I get your room?",
+                "No, not yet.",
+                "Okay, need anything else?",
+                "Nope, thanks for the help!",
+                "My pleasure."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00042",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need a three star hotel for 1 room.",
+                "Which city do you prefer?",
+                "I would like London, England.",
+                "Okay, there are 10 options. One 3 star hotel is Abbey Court Hotel (Hyde Park).",
+                "Is smoking permitted?",
+                "Yes, it is.",
+                "Thanks for the information.",
+                "Have a good day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00043",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need help finding a three star hotel in LA. I just need to book one room.",
+                "Ac Hotel By Marriott Beverly Hills might be a good fit, they are 3 stars.",
+                "Hmm, what number can I call them at?",
+                "The number is +1 323-852-7000.",
+                "Okay that's great, thank you, that's all I need.",
+                "Alright, bye, have a nice day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00044",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to find a hotel.",
+                "Which city should I search for hotels?",
+                "Look for hotels in Sydney, NSW.",
+                "There is a 3 star hotel named 1831 Boutique Hotel.",
+                "What is the price per night and is smoking allowed?",
+                "The cost is $225 per night and smoking is permitted.",
+                "Sounds great.",
+                "Do you want me to reserve a room?",
+                "No, I don't want to make the reservation now.",
+                "Can I assist you with anything else?",
+                "No thank you.",
+                "Enjoy your day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00045",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you find me a 3 star hotel?",
+                "Which city should I search for hotels in?",
+                "Search Chicago for hotels.",
+                "10 hotels match your criteria. AC Hotel By Marriott Chicago Downtown is a 3 star hotel.",
+                "Sounds great. Thats all I needed.",
+                "Enjoy your day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00046",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I would like to book a hotel in Washington D.C.",
+                "There are 10 hotels. There is Arc The. Hotel Washington D.C. that is a 3 star hotel.",
+                "Yes, that room is good.",
+                "Would you like to make a reservation?",
+                "Not at the moment.",
+                "Is there anything I can help with?",
+                "No, that is all I needed.",
+                "Have a good day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00047",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to make a trip and don't want to spend much money. I'm looking for an affordable hotel. I am fine with a 1 star hotel.",
+                "Ok, which city will you be visiting?",
+                "I'll be going to London, England. I have some family there.",
+                "That sounds like fun. There is a 1 star hotel called Abercorn House there.",
+                "I've looked at that online. Are there any others? I will just need 1 room.",
+                "Yeah, another 1 star hotel is Astor Hyde Park Hostel.",
+                "That one sounds good.",
+                "I can help make reservations for the hotel if you would like.",
+                "No thanks, I don't want to make the reservations yet. I don't need anything else right now.",
+                "Alright, I hope you have a great day! Bye."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00048",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to find a hotel.",
+                "In which city should I look in for a hotel?",
+                "I need a hotel in London, England.",
+                "I have found a 5 star hotel, located at 45 Park Lane.",
+                "I need 1 room. Is there any others that meet my needs?",
+                "Yes, there is a 3 star hotel called Abbey Court Hotel (Hyde Park).",
+                "Great. I am all set.",
+                "Goodbye have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00049",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need a hotel",
+                "What city are you after?",
+                "Can you search Los Angeles, I need one room.",
+                "I have found the AC hotel by Marriott Beverly Hills, a 3 star hotel.",
+                "Okay sounds good to me.",
+                "No worries, have a nice day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00050",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you help me find me a hotel?",
+                "Sure. What city should I search for hotels in?",
+                "Search in Anaheim, CA.",
+                "I found 10 hotels for you. How about the Alamo Inn & Suites? It's a 2 star hotel.",
+                "How much per night?",
+                "The room cost $52 per night.",
+                "That sounds good.",
+                "Would you like me to make a reservation?",
+                "No, not right now.",
+                "Do you need help with anything else?",
+                "No. Thanks for your help.",
+                "You're welcome. Have a nice day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00051",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to find 2 rooms in a hotel.",
+                "Can you tell me the city where you want the hotel to be?",
+                "I am interested in hotels in DC.",
+                "There are 10 hotels which you might want to pick from. One of the options is a 3 star hotel called Arc The. Hotel Washington D.C.",
+                "That seems okay.",
+                "Do you want to make a booking for this hotel?",
+                "Actually I do not want to make a booking now.",
+                "Do you need me to help you with something else?",
+                "Nothing. Thank you for the help you provided to me.",
+                "Take care, and have a nice day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00052",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you find me a one star hotel. I want to book 3 rooms.",
+                "Where should the hotel be located?",
+                "It should be located in Chi-town.",
+                "There's a 1 star hotel that's called the Chicago Getaway Hostel that might interest you.",
+                "How much is it for a night?",
+                "It is $105 for a night.",
+                "I like the sound of that. I don't need anything else.",
+                "Okay, have a fine day and take care."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00053",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need help finding a hotel.",
+                "I can help you with that. In which city would you like to find a hotel?",
+                "Something in London, UK.",
+                "I've found 10 hotels in London, UK. How about 45 Park Lane? It's a 5 star hotel.",
+                "What else is there? I would like 2 rooms at a four star hotel.",
+                "I've found 10 hotels that match your criteria. How about a 4 star hotel called Ace Hotel London?",
+                "What's the price per night?",
+                "They charge $296 per night.",
+                "I can deal with that. That will be all for now.",
+                "Okay, let me know if you need anything else."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00054",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you find me a four star hotel in Nairobi.",
+                "I found 9 4 star hotels. There's one called Crowne Plaza Nairobi.",
+                "That sounds good.",
+                "Shall I make a reservation.",
+                "Not just now. That's all I needed. Thanks.",
+                "Have a great day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00055",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I'm looking for a nice hotel to stay at, can you help me out?",
+                "No problem, what city would you like me to search in?",
+                "Find me something nice in NY.",
+                "I found a nice 5 star Hotel in NY called 1 Hotel Brooklyn Bridge.",
+                "Cool, sounds good.",
+                "Would you like to make a reservation?",
+                "No, not right now.",
+                "No problem! Anything else I can help you with today?",
+                "No thanks. You've been a great help.",
+                "Happy to be of service. Have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00056",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "You have to help me in finding a hotel.",
+                "Where?",
+                "Rio de Janeiro",
+                "There are 10 options available. I got a 2 star hotel called Atlantico Copacabana Hotel.",
+                "Look for a 3 star hotel, I only need 1 room.",
+                "I've found a 3 star, it's the Clh Suites Copacabana Domingos Ferreira",
+                "I like it, thanks. Bye",
+                "Have a wonderful day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00057",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Please help me find a hotel.",
+                "In which city?",
+                "Somewhere in SD.",
+                "I got 10 hotels and one is Bahia Resort Hotel which is a 3 star hotel.",
+                "May I know their phone number abd the price of the hotel per night?",
+                "It's +1 858-488-0551 and it costs $144 per night.",
+                "That's great!",
+                "Anything else I can help you with?",
+                "No, thanks for your help.",
+                "No problem."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00058",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need help finding a 4 star hotel.",
+                "Any particular city I should search in?",
+                "Please search for hotels in Chicago.",
+                "How about Ace Hotel Chicago, a nice 4 star hotel?",
+                "I like the sound of that.",
+                "Should I go ahead and make reservations at this hotel?",
+                "No. For the moment, I won't be making a reservation.",
+                "Will there be anything else?",
+                "No, thank you very much. You've been very helpful.",
+                "Goodbye and have yourself a fabulous day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00059",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to stay in a hotel for a While and I need your help to find the suitable on in KL.",
+                "Got 10 hotels. What is your opinion about the Hotel named Alila Bangsar which is a 5 star Hotel?",
+                "I want to know their contact number for my reference. Can you get it?",
+                "Yes, please note down it as +60 3-2268 3888.",
+                "That's great.",
+                "Shall I reserve this Hotel now?",
+                "No, not now and that's all. thanks.",
+                "Have a good day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00060",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I would like to find a hotel in Sacramento, CA for an upcoming trip.",
+                "There is a 3 star hotel called Courtyard by Marriott Sacramento Cal Expo in that area.",
+                "Are there any more hotels that fit with my request?",
+                "Sure. There is another 3 star hotel called Courtyard By Marriott Sacramento Midtown that fits your search.",
+                "Can you tell me if this hotel permits smoking?",
+                "This is a non-smoking hotel, so smoking is not permitted.",
+                "Great, that's fine",
+                "Are you interested in booking a room at this hotel?",
+                "Not at this moment, thanks",
+                "Do you need my assistance with anything further?",
+                "No, that was everything I needed. Thanks so much for the assistance!",
+                "Enjoy your day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00061",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to book a hotel please.",
+                "Certainly, in what city?",
+                "I need something in London, England.",
+                "There are 10 hotels that I can recommend. How about 45 Park Lane, which has a 5 star rating?",
+                "What else can you recommend? I'll need three rooms, by the way.",
+                "I have 9 options to tell you about. I'd like to recommend Abbey Court Hotel (Hyde Park), which has a 3 star rating.",
+                "I think that's going to work.",
+                "Are you interested in making a reservation?",
+                "No, not at the moment. Thank you though.",
+                "You are very welcome, goodbye."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00062",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to find a hotel to stay at please?",
+                "What city are you gonna be looking for a hotel?",
+                "I need a hotel in Paris please",
+                "How about a 4 star hotel like the Ac Hotel by Marriott Paris Porte Maillot?",
+                "What is their street address?",
+                "It's at 6 Rue Gustave Charpentier, 75017",
+                "Can I smoke there?",
+                "No, unfortunately it is not allowed",
+                "OK that's still fine for me",
+                "Can I do something else for you right now?",
+                "For now we're set and squared away, but thanks for all your help",
+                "Sure thing, glad I was able to help!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00063",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you find me a nice hotel?",
+                "Which is your preferred city?",
+                "Find the hotel in LAX.",
+                "I found a 3 star hotel called Ac Hotel By Marriott Beverly Hills.",
+                "Can you find me two rooms in any other hotel?",
+                "I found a 3 star hotel called Ac Hotel By Airtel Plaza Hotel.",
+                "Can you find out whether smoking allowed in the hotel and the street address of the hotel?",
+                "Smoking is not allowed and the street address is 7277 Valjean Avenue, Van Nuys, California 91406, United States.",
+                "That sounds good. That will be all now.",
+                "I am glad I could help. Bye! Have a nice day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00064",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Hi, please help with a hotel.",
+                "which city do you want?",
+                "How about somewhere in Nairobi?",
+                "Well, you have 10 options, first up we have Azure Hotel Nairobi Westlands. It has 5 stars.",
+                "Can I smoke there? How much is it?",
+                "Yes, you may. It is only $125 per night.",
+                "That's great. Thanks a lot.",
+                "Have a great trip."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00065",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you help me find a hotel?",
+                "In which city are you planning to stay?",
+                "I'd like a 3 star hotel in Paris please.",
+                "Would you like to consider Aparthotel Adagio Access Paris La Villette, which is a 3 star hotel?",
+                "Can you get me the nightly rate and their phone number please?",
+                "Their phone number is +33 1 44 72 42 00 and a room costs $108 per night.",
+                "Are there any other hotels based on my preferences?",
+                "How about another 3 star hotel, Aparthotel Adagio Paris Montmartre?",
+                "That sounds like a good option. Thank you. That'll be all for now.",
+                "Have a great day! Bye!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00066",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Please recommend me a hotel in London, UK.",
+                "May I suggest the 5 star rated 45 Park Lane hotel?",
+                "Do you know the cost per night?",
+                "The nightly cost is $375.",
+                "That's right up my alley. That will be all for now.",
+                "Bye, and do have yourself a fabulous day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00067",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Fine for me a hotel please.",
+                "On which city you want to be?",
+                "In London, England will be okay.",
+                "What do you think about a 5 star hotel called 45 Park Lane?",
+                "You can smoke in the hotel?Tell me the contact phone number.",
+                "+44 20 7493 4545 is the phone number.Smoking is not possible in this hotel.",
+                "Sounds very good.",
+                "You want to make an reservation?",
+                "No, not now.That's all now.",
+                "Bye,Have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00068",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Please help me find a hotel with one rooms in NY.",
+                "I got 10 hotels and one is 1 Hotel Brooklyn Bridge which is a 5 star hotel.",
+                "Can I smoke there?",
+                "Yes.",
+                "May I know their phone number and address?",
+                "It's +1 347-696-2500 and they are located at 60 Furman Street Brooklyn.",
+                "That's good. Thanks.",
+                "You are welcome!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00069",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I'd like a three star hotel.",
+                "What city would you like it in?",
+                "Look for one in SD.",
+                "I've got 10 hotels for you. Bahia Resort Hotel is a 3 star hotel.",
+                "That's a good one.",
+                "Would you like a reservation?",
+                "Not right now. Thanks anyway.",
+                "Have a nice day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00070",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to find a hotel that I'm able to smoke in.",
+                "What city should I find hotels in?",
+                "I need hotels in Los Angeles.",
+                "I have 10 matching hotels including one called Banana Bungalow Hollywood which is 1 star.",
+                "Sounds great.",
+                "Do you wish to reserve the hotel?",
+                "I don't want a reservation at this time.",
+                "What else can I assist you with?",
+                "No thank you you've been helpful.",
+                "Bye, have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00071",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to search for a hotel.",
+                "What city are you interested in?",
+                "A hotel in New York City would be ideal.",
+                "There are 10 hotels that may fit. There's a 5 star hotel called 1 Hotel Brooklyn Bridge.",
+                "Can you give me their telephone number. And also find out the price for a night there.",
+                "You can call them at +1 347-696-2500. The price for a night is $465.",
+                "That seems pretty good.",
+                "Do you want to make a reservation?",
+                "No, I don't need a reservation right now.",
+                "What else can I do for you?",
+                "Nothing else, you've been of great help.",
+                "Take care then and have a fine day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00072",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to find a hotel. Smoking preferred.",
+                "What city are you looking in?",
+                "I want to find some hotels in New York City.",
+                "I found 10 hotels. 1 Hotel Brooklyn Bridge is a 5 star hotel.",
+                "What's the address and the phone number?",
+                "The address is 60 Furman Street, Brooklyn and the number is +1 347-696-2500.",
+                "Sounds great.",
+                "Do you want to make a reservation?",
+                "Not right now.",
+                "Anything else I can do for you?",
+                "No, that's all. Thanks.",
+                "Have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00073",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Looking for hotel in Delhi, India",
+                "I got 10 of them, There is the 5 start rated Aloft New Delhi Aerocity",
+                "That is good, thats all",
+                "bye, good day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00074",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need a hotel in London, UK with 1 room.",
+                "There is a 5 star hotel called 45 Park Lane.",
+                "Sounds great. I am all set for now.",
+                "Goodbye. Have a great day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00075",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to stay in a Hotel in London, UK. I need your help to find a three star hotel for me.",
+                "Got 10 results. How about a Hotel called Abbey Court Hotel (Hyde Park) which is also a 3 star Hotel?",
+                "Yes, what is the cost per night?",
+                "The total cost will be around $93 per night.",
+                "Okay, please search for something else based on my conditions.",
+                "What about a 3 star Hotel named Accommodation London Bridge?",
+                "I think this will be okay for me. Thanks and that's all.",
+                "Have a good day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00076",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you help me find a hotel?",
+                "In which city are you looking?",
+                "Can you find me something in London, UK?",
+                "I found 10 matching hotels. One is a 5 star hotel called 45 Park Lane.",
+                "Can you tell me the price?",
+                "Sure, it's $375 per night.",
+                "Can you tell me their address and phone number?",
+                "They're located at 45 Park Lane and can be reached at +44 20 7493 4545.",
+                "Thank you, that should be all for now.",
+                "Have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00077",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Could you help me find a hotel?",
+                "Sure, just let me know what city you would like to search in.",
+                "Find me a nice four star hotel in Seattle, WA.",
+                "There is a nice 4 star hotel in the area called Crowne Plaza Seattle Downtown.",
+                "How much are the rooms per night? Can you also get the address for me? Thanks.",
+                "Rooms are $112 per night and the address is 1113 6th Avenue.",
+                "Any other hotels in the area? I need to book two rooms.",
+                "Yes there are! I've found 9 hotels for you. How about the Grand Hyatt Seattle? It has a 4 star rating.",
+                "Yeah, that sounds great. Thanks for the help. That will be all.",
+                "Goodbye! Have a good day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00078",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to find a hotel.",
+                "In which city do you want me to look?",
+                "I need one in Seattle, WA.",
+                "The Ace Hotel Seattle is a 2 star hotel.",
+                "Do they allow smoking? What is the contact number?",
+                "They do not allow smoking and the number is +1 206-448-4721",
+                "That's perfect.",
+                ".Would you like to make the reservation?",
+                "Yes please reserve the room.",
+                "Which day is your check in day? How long will you be staying?",
+                "I want to check in Monday next week and stay for five days.",
+                "You want to reserve 1 room at the Ace Hotel Seattle, in Seattle for 5 days beginning March 4th.",
+                "Yes that is correct.",
+                "Your reservation has been made.",
+                "Thanks for your help, that's all I needed.",
+                "Okay, bye! Have a good day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00079",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Can you find hotels for me?",
+                "Which is your preferred city for the hotel?",
+                "I would like a hotel in Seattle.",
+                "There are 10 hotels that you may like. How about a 2 star hotel called Ace Hotel Seattle?",
+                "Okay, That sounds good to me.",
+                "Do you want me to reserve a room in the hotel?",
+                "Yes, Please reserve a room for me.",
+                "What is the duration of your stay?",
+                "I will need the room for four days.",
+                "What will be the date of check in?",
+                "I want to check in on 7th of this month.",
+                "Please confirm: You want me to reserve 1 room in Ace Hotel Seattle located in Seattle for 4 days and date of check in will be March 7th.",
+                "No, I want the room for seven days.",
+                "Please confirm again: You want me to book a room in Ace Hotel Seattle for 7 days.",
+                "Yes, That is correct. Find me their Phone number and street address.",
+                "Your room has been successfully reserved. You can call them on +1 206-448-4721 and their address is 2423 1st Avenue.",
+                "Thank you so much!",
+                "Can I help you with anything else?",
+                "No. That will be all. Thank you!",
+                "I am glad I could help. Have a nice day! Bye!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00080",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to find a 5 star hotel in New York.",
+                "There are 10 hotels which match. There's a 5 star hotel called 1 Hotel Brooklyn Bridge.",
+                "Please give me their address.",
+                "They are located at 60 Furman Street, Brooklyn.",
+                "Do they allow smoking there?",
+                "Yes, the allow smoking.",
+                "That works for me. I'd like to make a reservation.",
+                "How long will your stay be?",
+                "I'll be there for 5 days.",
+                "And when do you want to check in?",
+                "I want to check in next Wednesday.",
+                "I'll book you 1 room for 5 days at 1 Hotel Brooklyn Bridge in New York starting on March 6th. Is everything correct?",
+                "Yeah, that's all correct.",
+                "I've made the reservation.",
+                "Thanks so much for the help. I'll be going now.",
+                "Goodbye and have a wonderful day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00081",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need a hotel in London.",
+                "There is a 5 star hotel at 45 Park Lane in London.",
+                "That sounds good.",
+                "Would you like to make a reservation?",
+                "Yes, I'd like to make a reservation for 2 rooms for four days beginning the day after tomorrow.",
+                "Okay. Please confirm the following: You will be checking in on March 3rd at 45 Park Lane in London. You will have 2 rooms and will be staying for 4 days.",
+                "That's it. Can you give me the address and let me know the cost per night?",
+                "The address is 45 Park Lane and the cost is $585 per night. The rooms have been booked.",
+                "Thanks. That's all I need.",
+                "Enjoy your stay in London."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00082",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I would like to find a 3 star hotel in San Diego.",
+                "I have 10 hotels. One is called Bahia Resort Hotel and has 3 stars.",
+                "Is smoking permitted?",
+                "No, it is not.",
+                "Ok then, that is fine.",
+                "Can I do anything else for you?",
+                "I would like to reserve the hotel for next Tuesday.",
+                "When will you check out?",
+                "I will need one room for 6 days.",
+                "Please confirm 1 room for 6 days beginning on March 5th at the Bahia Resort Hotel in San Diego.",
+                "Great, what is the number?",
+                "The reservation is confirmed and the number is +1 858-488-0551.",
+                "Great, thanks for the help.",
+                "Can I do anything else for you?",
+                "No, I am all set.",
+                "Have a great day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00083",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Hi I'll be travelling and need a hotel to stay in, can you find one for me?",
+                "Of course, in what city would you like the hotel to be in?",
+                "I would like a hotel with a 1 star rating in London, UK.",
+                "I managed to find a 1 star hotel called Abercorn House.",
+                "Is there anything else? Preferably with three rooms?",
+                "I found a 1 star hotel called Astor Hyde Park Hostel.",
+                "How much is the room per night? And what is their contact number?",
+                "The room cost is $90 per night and you can call them at +44 20 7581 0103.",
+                "That works for me.",
+                "Would you like me to book the hotel room for you?",
+                "Yes, I would like to reserve a room.",
+                "What day would you like to check in?",
+                "I would like to check in on the 9th of this month.",
+                "What will be the duration of your stay?",
+                "I would like to stay for 4 days.",
+                "So you would like to stay at the Astor Hyde Park Hostel in London on March 9th. The duration of your stay will be 4 days and you would like 3 rooms. Is this correct?",
+                "Yes, that works for me? Is smoking permitted in the hotel? What's their address?",
+                "The hotel has been booked. Their address is 191 Queen's Gate and smoking is not allowed.",
+                "Thank you, I appreciate all of your help. That's all I needed.",
+                "No problem, have a great day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00084",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Please help me find a hotel in San Fran with 1 rooms.",
+                "I got 10 hotels and one is Amsterdam Hostel San Francisco which is a 1 star hotel.",
+                "May I know their street address and price per night?",
+                "They are located at 749 Taylor Street and room costs $54 per night.",
+                "Can you find any other hotels? I prefer four - star hotel.",
+                "I got 10 hotels and one is Argonaut Hotel which is a 4 star hotel.",
+                "That's good!",
+                "Will I reserve you the hotel?",
+                "Yes, I want to check in on March 8th for two days.",
+                "Okay, you want 1 rooms at Argonaut Hotel in San Francisco on March 8th for 2 days. Please confirm.",
+                "Good. May I know their street address and phone number?",
+                "They are located at 495 Jefferson Street and their phone number is +1 415-563-0800. Your reservation is now confirmed!",
+                "Thank you.",
+                "Anything else I can help you with?",
+                "No, thanks.",
+                "You are welcome!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00085",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need a hotel in San Fran.",
+                "There are 10 options, what about a 1 star called Amsterdam Hostel San Francisco.",
+                "How much do they cost per night and can you smoke in your room?",
+                "No smoking is permitted and it costs $54 per night.",
+                "What else did you find?",
+                "A 4 star called Argonaut Hotel.",
+                "I like the sound of that one.",
+                "Do you want me to book a room.",
+                "Yes I do.",
+                "What date will you arrive and how many nights will you be staying?",
+                "On Thursday next week for five nights.",
+                "To confirm then that is 1 room for 5 nights from March 7th in the Argonaut Hotel in San Francisco.",
+                "Yes that is right. How much do they charge per night and what is their address?",
+                "495 Jefferson Street and they charge $396 per night.",
+                "Thanks so much for your help, that is all I need.",
+                "goodbye, enjoy your day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00086",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Me and my boyfriend are hoping you can recommend a four star hotel. We are hoping to get one room.",
+                "Is there a certain city you prefer the hotel to be in?",
+                "London, England is where we would prefer to get a hotel room.",
+                "My search located 10 hotels with a 4 star rating. One of the hotels is called Ace Hotel London.",
+                "I will trust your choice.",
+                "I can make a reservation for you if you like.",
+                "I would like a reservation, thank you. My preferred check in date is the 5th of March. I would like to book the room for 7 days.",
+                "With your approval I will reserve 1 room at the Ace Hotel London on March 5th for 7 days. This hotel is in London.",
+                "You have my approval, thank you.",
+                "The reservation has been made.",
+                "That's great. You are a wonderful assistant.",
+                "What else may I assist you with?",
+                "I do not need further help. I appreciate your assistance.",
+                "Don't hesitate to ask for anything else. You have a great day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00087",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Find me 1 room in a four star hotel located in London, England please.",
+                "I found the Ace Hotel London, it has 4 stars.",
+                "That would be pretty good.",
+                "Should I book you a room?",
+                "Alright make the arrival time for 4th of March.",
+                "What will be the length of your stay?",
+                "I would say 6 days.",
+                "Do I have this right? You want me to reserve you 1 room at the Ace Hotel London in London for a 6 day stay beginning March 4th.",
+                "That is correct. Where is that located exactly?",
+                "You will find the room I booked for you at 100 Shoreditch High Street.",
+                "Does the hotel permit smoking?",
+                "You can not smoke anywhere on the property.",
+                "You are great, I appreciate all your help you can go now.",
+                "Alright then have a nice day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00088",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Hi, could you help me search for a hotel please?",
+                "Any preferred city of location?",
+                "Something in Kuala Lumpur will be great.",
+                "There are 10 hotels in that area, how about Alila Bangsar, a 5 star hotel?",
+                "Are there any alternative three star hotel with one room?",
+                "Sure, there are 10 hotels which you may like, how about a 3 star hotel called Alpha Genesis Hotel?",
+                "Sure, could you make a reservation on the 4th of March please?",
+                "And how long will you be staying for?",
+                "Most likely for 4 days.",
+                "Sure, please confirm your reservation for 1 room at Alpha Genesis Hotel in Kuala Lumpur for 4 days from March 4th.",
+                "Sure, may I have their street address and nightly cost please?",
+                "Your reservation has been made. They are located at 45, Tengkat Tong Shin, Bukit Bintang, 50200 Kuala Lumpur, Wilayah Persekutuan and this will set you back $162 each night.",
+                "I see, thanks so much for your help. That is all I need.",
+                "No worries, have a great day ahead!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00089",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Help me look for a hotel.",
+                "What city do you want to look in?",
+                "I need a hotel in NYC.",
+                "There are 10 matches in NYC. One of the matches is a 5 star hotel, it's 1 Hotel Brooklyn Bridge.",
+                "That'll work.",
+                "What else can I do for you?",
+                "Make me a reservation for 1 room at that hotel.",
+                "When would you like to check in and for how many days?",
+                "I want to check in on the 8th for six days.",
+                "I'll reserve you 1 room for 6 days starting on March 8th at 1 Hotel Brooklyn Bridge in New York. Is everything correct?",
+                "Yeah, you got everything.",
+                "The room has been booked.",
+                "Nice, thanks a lot for helping. I don't need anything else.",
+                "I'll be here if you need me, have a fine day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00090",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Hi, could you help me search for a hotel please?",
+                "Any preferred city I should look at?",
+                "Something in NY is fine.",
+                "How about a 5 star hotel called 1 Hotel Brooklyn Bridge?",
+                "Could you make a reservation for 2 rooms at that hotel?",
+                "And how long will you be staying?",
+                "Just one day will do.",
+                "When will you be checking in?",
+                "Likely on March 1st.",
+                "Please confirm your reservation for 2 rooms at 1 Hotel Brooklyn Bridge in New York on March 1st for 1 day.",
+                "Sure, that is fine.",
+                "Your hotel reservation has been made.",
+                "Thank you for your help!",
+                "No worries, any further help you would need?",
+                "No, that is all. Thank you!",
+                "Have a great day ahead!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00091",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I would like to search a hotel.",
+                "Which is your preferred city?",
+                "Search for the hotels in SD.",
+                "There are 10 hotels which might interest you. What about a 3 star hotel called Bahia Resort Hotel?",
+                "That sounds great to me.",
+                "Do you want me to reserve the hotel?",
+                "Yes, Please reserve the hotel for me.",
+                "What is your expected date of check in and the duration of stay?",
+                "I would like to check in on March 1st and I will be staying for 5 days.",
+                "Please confirm: You want me to reserve 1 room in Bahia Resort Hotel located in San Diego for 5 days. And My check in date will be March 1st.",
+                "Okay! That sounds great to me.",
+                "I have successfully booked the room in the hotel.",
+                "That will be all for now. Thank you for all your help!",
+                "I am glad I could help. Bye! Have a nice day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00092",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I am excited about a trip to Paris. While I am visiting I will need to book one room at a 3 star hotel.",
+                "A lovely hotel found with a 3 star rating is known as the Aparthotel Adagio Access Paris La Villette.",
+                "Are you able to provide the hotel address? I would also like to know if smoking is allowed at the hotel.",
+                "The hotel is located at 28bis Avenue Corentin Cariou, 75019. This hotel does not allow smoking anywhere.",
+                "Thank you. It seems like a nice place to stay.",
+                "I can make you a reservation if you like.",
+                "I would like a reservation. Thank you for asking. I would love to stay for 5 days with a check in on the 1st of this month.",
+                "With your approval I will reserve 1 room for 5 days at the Aparthotel Adagio Access Paris La Villette located in Paris. The reservation will begin March 1st.",
+                "Approval granted, thanks.",
+                "Your reservation is set.",
+                "You are a great help. I will not need any more assistance at the moment.",
+                "Au revoir, enjoy the rest of the day>"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00093",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I'm in need of a hotel.",
+                "Where will you need it?",
+                "How about Toronto, Canada?",
+                "Why not try Best Western Plus Toronto North York Hotel & Suites? It has 3 stars.",
+                "Fine, book it.",
+                "When will you check in?",
+                "How about on the 10th of March.",
+                "How many nights?",
+                "I'll be there 2 days.",
+                "To confirm, 1 room for 2 nights at Best Western Plus Toronto North York Hotel & Suites on March 10th in Toronto.",
+                "Fine, is there smoking allowed? How much per night?",
+                "Sorry no smoking, the price is $99 a night.",
+                "Fine, I'll deal. Thanks",
+                "What else can I help with?",
+                "Nothing, You're the cat's meow.",
+                "Gee thanks, I don't get that enough."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00094",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Hi I need a hotel that allows smoking. Can you find one for me?",
+                "In what city would you like the hotel to be in?",
+                "I'd like a hotel in Sydney.",
+                "I managed to find a hotel called 1831 Boutique Hotel with a 3 star rating.",
+                "That works for me.",
+                "Would you like me to book you a room?",
+                "Yes, that would be great.",
+                "How long will your stay be?",
+                "I'd like to stay for two days.",
+                "What day would you like to check in?",
+                "I'd like to check in on Tuesday next week.",
+                "So you'd like to book 1 room at 1831 Boutique Hotel in Sydney for March 5th. You will be staying for 2 days. Is this correct?",
+                "Yes, that works great.",
+                "I have booked your hotel room.",
+                "How much is the room per night and what is their address?",
+                "The cost is $234 per night and their address is 631-635 George Street.",
+                "Thanks, I really appreciate your help.",
+                "Is there anything else I can assist you with today?",
+                "No that would be all, thank you very much.",
+                "Have a wonderful day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00095",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "Hi, I want to find a hotel please, something four star-rated in Toronto.",
+                "The Bisha Hotel Toronto has a rating of 4 stars.",
+                "Great, okay. May I please book 1 room?",
+                "What is your check in date expected to be?",
+                "Let's make that for the 2nd of this month.",
+                "Will do. What will be the duration of your stay?",
+                "Just seven days.",
+                "Confirming your stay at Bisha Hotel Toronto, 1 room, beginning March 2nd in Toronto for a total of 7 days.",
+                "Yes, that's good, thanks!",
+                "The reservation has been successfully completed.",
+                "Thank you so much for helping me with that.",
+                "I'm very happy to assist you. Anything else today?",
+                "Nothing else, no. Thank you again.",
+                "You're very welcome and I hope you have a nice trip."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00096",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to find a hotel",
+                "On which city you want to be?",
+                "In Paris I want to be.",
+                "10 results I have according to your criteria.A 4 star hotel called Ac Hotel By Marriott Paris Porte Maillot.",
+                "Sounds very good.",
+                "You want to make a reservation?",
+                "Yes make me for 1 room with check in on March 2nd.I want to stay 5 days.",
+                "You want 1 room on Paris at hotel Ac Hotel By Marriott Paris Porte Maillot.Check in date is March 2nd and you want to stay 5 days.Is that correct?",
+                "Very good.Tell me if I can smoke here and total price per night.",
+                "The hotel was booked.Per night it cost $112 and smoking is not allowed.",
+                "Thank you. You were helpful.That's all.",
+                "Bye!Have a nice day!"
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00097",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I need to stay in a hotel for a meeting. Please find a three star hotel.",
+                "At which city should i need to search for?",
+                "Please look for hotels in Washington.",
+                "I found 10 hotels as per your need. There is a hotel called Arc the. Hotel Washington D.C. It is a 3 star hotel",
+                "Ok That's sound good.",
+                "Whether i need to reserve room in that hotel?",
+                "Yes, I need to 2 rooms. I'll be staying for three days. I'm looking to check in on 1st of this month.",
+                "Please check and confirm the following details. Hotel is booked at Arc The. Hotel Washington D.C. Check in Date is on March 1st. Number of days is 3 to stay. It's located in Washington D.C. Need 2 rooms.",
+                "Sure, please book it. What is their Phone number? What is their street address?",
+                "Booked successfully. Their address is 824 New Hampshire Avenue Northwest, Washington, DC 20037, USA. THeir PHone Number is +1 202-337-6620.",
+                "THanks a Lot for your help. That's all i need.",
+                "Bye have a wonderful day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00098",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I want to search for a Hotel to stay and I need two rooms there. Please search for some nice 1 star Hotels.",
+                "Do you have any particular City in your mind to search for the Hotels?",
+                "Yes, search it in Anaheim, CA.",
+                "Got 2 hotels. How about a hotel named Best Western Plus Pavilions with 1 star.",
+                "I want to know the contact number of that hotel for my reference.",
+                "Please note down it as +1 714-776-0140.",
+                "Thanks and also I want to know their address. Please also check whether they will allow smoking in their hotel.",
+                "No smoking is allowed there and their address is 1176 West Katella Avenue.",
+                "That is okay for me.",
+                "Shall I reserve it now for you?",
+                "Yes, do it for 7 days from 4th of March.",
+                "Please confirm to book 2 rooms for 7 days in Best Western Plus Pavilions from March 4th in Anaheim.",
+                "That is confirmed. You can proceed with booking. May I know the rate details per night?",
+                "Yes, it costs $76 per night and your booking was successfully made.",
+                "Thank you so much and that's all.",
+                "Have a good day."
+            ]
+        }
+    },
+    {
+        "dialogue_id": "1_00099",
+        "turns": {
+            "speaker": [
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1,
+                0,
+                1
+            ],
+            "utterance": [
+                "I'm hoping to find a hotel where I can stay.",
+                "In what city please?",
+                "In the city of Chi-town please.",
+                "All right. Perhaps you'd like the Ac Hotel By Marriott Chicago Downtown, which is a hotel with a 3 star user rating.",
+                "What other three star hotels can you recommend? Someplace I can smoke, too, please.",
+                "Acme Hotel Company is also a hotel with a 3 star rating.",
+                "Where are they located exactly?",
+                "Of course, the hotel's address is 15 East Ohio Street.",
+                "Great, thank you.",
+                "Shall I make a reservation for you there?",
+                "Yes, could you book 1 room for me there starting on March 8th for a five day stay?",
+                "Confirming your booking at the Acme Hotel Company in Chicago on March 8th, 1 room for 5 days.",
+                "My bad, I should have said check-in on the 9th.",
+                "Confirming your March 9th check-in at Acme Hotel Company.",
+                "Yes, thanks. How much is that?",
+                "The room costs $105 nightly. The reservation just completed, so you're all set.",
+                "Thank you for your great help.",
+                "How else may I help you today?",
+                "Nothing else right now. Thanks so much.",
+                "You're very welcome. Have a great day."
+            ]
+        }
+    }
+]

@@ -1,10 +1,10 @@
 
-# Dialog Flow Dialog Graph Constructing
+# Dialog Flow Graph Constructing
 
-**Dialog Flow Dialog Graph Constructing** is python module add-on for [Dialog Flow Framework](https://github.com/deepmipt/dialog_flow_framework), a free and open-source software stack for creating chatbots, released under the terms of Apache License 2.0.
+**Dialog Flow Graph Constructing** is python module add-on for [Dialog Flow Framework](https://github.com/deepmipt/dialog_flow_framework), a free and open-source software stack for creating chatbots, released under the terms of Apache License 2.0.
 
 
-[Dialog Flow Dialog Graph Constructing](../..) allows you to automatically generate dff scripts from example dialogues.
+[Dialog Flow Graph Constructing](../..) allows you to automatically generate dff scripts from example dialogues.
 [![Codestyle](../../../workflows/codestyle/badge.svg)](../../../actions)
 [![Tests](../../../workflows/test_coverage/badge.svg)](../../../actions)
 [![License Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
@@ -72,6 +72,6 @@ Dialogue dataset is a list of such dictionaries.
 
 To get more advanced examples, take a look at [examples](examples) on GitHub.
 
-# Contributing to the Dialog Flow Dialog Graph Constructing
+# Contributing to the Dialog Flow Graph Constructing
 
 Please refer to [CONTRIBUTING.md](CONTRIBUTING.md).

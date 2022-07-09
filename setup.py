@@ -58,7 +58,7 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3 :: Only",
     ],
-    keywords=["chatbots", "Dialog Flow Dialog Graph Constructing"],  # Optional
+    keywords=["chatbots", "Dialog Flow Graph Constructing"],  # Optional
     packages=find_packages(where="."),  # Required
     include_package_data=True,
     python_requires=">=3.6, <4",
